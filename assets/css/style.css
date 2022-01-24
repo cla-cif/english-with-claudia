@@ -29,7 +29,7 @@ footer {
 
 .container {
   margin-inline: 4rem;
-  width: min(90%, 70rem);
+  /* width: min(90%, 70rem); */
 }
 
 .split {
@@ -234,7 +234,6 @@ about-me
   padding-bottom: 0;
 }
 
-
 /*
 ========
 services 
@@ -242,8 +241,8 @@ services
 */
 
 .service-header.container {
-  margin-inline: 0;
-  padding: 3em 0 3em 0;
+  padding: 3rem 0 3rem 0;
+  margin:0;
 }
 
 .service-header.container>h2 {
@@ -475,7 +474,7 @@ media-queries
 
   .container {
     margin-inline: 2rem;
-    width: min(90%, 70rem);
+    /* width: min(90%, 70rem); */
   }
 
   h2.hero-header {
@@ -491,7 +490,7 @@ media-queries
   }
 
   footer.container {
-    width: min(90%, 70rem);
+    /* width: min(90%, 70rem); */
     margin: 0;
   }
 
