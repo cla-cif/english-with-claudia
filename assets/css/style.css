@@ -238,8 +238,7 @@ about-me
   border-radius: 50%;
   height: auto;
   max-height: 70vh;
-  -webkit-shape-outside:circle();
-  shape-outside:circle();
+  filter:brightness(90%);
 }
 .aboutme-header {
   max-height: 70vh;
