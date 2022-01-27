@@ -310,7 +310,7 @@ contact-me
 */
 
 #form {
-  padding-bottom: 3rem;
+  padding-bottom: 5rem;
 }
 
 .form-input input[type="text"],
@@ -396,7 +396,7 @@ media-queries
 
 /*large screens*/
 
-@media only screen and (min-width: 46em) {
+@media only screen and (min-width: 50rem) {
   .split {
     flex-direction: row;
   }
@@ -419,7 +419,7 @@ media-queries
 
 /*medium-small screens*/
 
-@media only screen and (min-width: 20rem) and (max-width: 46em) {
+@media only screen and (min-width: 20rem) and (max-width: 50rem) {
  .container,
  #aboutme .container.split,
  .aboutme-text
@@ -462,6 +462,9 @@ media-queries
    {
     margin-right: 0;
   }
+  .footer-split {
+    margin-bottom: 2.5rem;
+  }
 
 }
 
@@ -474,15 +477,18 @@ media-queries
   }
   .container,
   #aboutme .container.split,
+  #service-two-container,
+  .container.split,
   .aboutme-text, 
   .service-one,
   .service-two,
-  .service-three
+  .service-three,
+  h1, h2, h3
    {
-    margin-inline:1rem;
+    margin-inline: 1rem;
   }
   .service-header.container {
-    padding:1rem;
+    padding: 1.5rem 0 2.5rem 0;
   }
   .form-input {
     display: none;
@@ -504,12 +510,12 @@ media-queries
     margin-inline: 2rem;
   }
 
-  h2,
-  h3 {
+  h2 {
     font-size: 1.5rem;
-    margin-inline: 1rem;
   }
-
+h3 {
+  font-size:1.3rem;
+}
   .service-text {
     padding: 0.5em;
   }
@@ -531,7 +537,6 @@ media-queries
   }
 
   footer.container {
-    /* width: min(90%, 70rem); */
     margin: 0;
   }
 
