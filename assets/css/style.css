@@ -87,6 +87,7 @@ p {
   font-weight: 800;
   text-align: justify;
 }
+
 .service-text p {
   text-align: left;
 }
@@ -231,27 +232,30 @@ about-me
 ========
 */
 
-#aboutme .container.split {
+.aboutme .container.split {
   margin-inline: 6rem;
 }
+
 .aboutme-img img {
   border-radius: 50%;
   height: auto;
   max-height: 70vh;
-  filter:brightness(90%);
+  filter: brightness(90%);
 }
+
 .aboutme-header {
   max-height: 70vh;
 }
 
 .aboutme-img {
-  margin-right:0;
-  display:flex;
+  margin-right: 0;
+  display: flex;
   justify-content: flex-end;
 }
+
 .aboutme-text {
   margin-inline: 4rem;
-} 
+}
 
 /*
 ========
@@ -261,7 +265,7 @@ services
 
 .service-header.container {
   padding: 3rem 0 3rem 0;
-  margin:0;
+  margin: 0;
 }
 
 .service-header.container>h2 {
@@ -420,18 +424,21 @@ media-queries
 /*medium-small screens*/
 
 @media only screen and (min-width: 20rem) and (max-width: 50rem) {
- .container,
- #aboutme .container.split,
- .aboutme-text
-  {
-   margin-inline:2.5rem;
- }
- .service-header.container {
-   padding:2.5rem;
- }
+
+  .container,
+  .aboutme-text,
+  .aboutme .container.split {
+    margin-inline: 2.5rem;
+  }
+
+  .service-header.container {
+    padding: 2.5rem;
+  }
+
   h2 {
-   font-size: 2rem;
- }
+    font-size: 2rem;
+  }
+
   #service-two-container {
     flex-direction: column-reverse;
   }
@@ -450,18 +457,18 @@ media-queries
 
 
   #service-two-img {
-    margin-left:0;
+    margin-left: 0;
   }
 
   section.service-one,
   section.service-two {
     margin-bottom: 0;
   }
-  section.follow-me.container
-  section.footer-links.container
-   {
+
+  section.follow-me.container section.footer-links.container {
     margin-right: 0;
   }
+
   .footer-split {
     margin-bottom: 2.5rem;
   }
@@ -475,21 +482,28 @@ media-queries
   img {
     display: none;
   }
+
   .container,
-  #aboutme .container.split,
   #service-two-container,
   .container.split,
-  .aboutme-text, 
+  .aboutme-text,
   .service-one,
   .service-two,
   .service-three,
-  h1, h2, h3
-   {
+  h1,
+  h2,
+  h3 {
     margin-inline: 1rem;
   }
+
+  .aboutme .container.split {
+    margin-inline: 0;
+  }
+
   .service-header.container {
     padding: 1.5rem 0 2.5rem 0;
   }
+
   .form-input {
     display: none;
   }
@@ -513,9 +527,11 @@ media-queries
   h2 {
     font-size: 1.5rem;
   }
-h3 {
-  font-size:1.3rem;
-}
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
   .service-text {
     padding: 0.5em;
   }
@@ -536,9 +552,6 @@ h3 {
     margin: 0;
   }
 
-  footer.container {
-    margin: 0;
-  }
 
   footer.split {
     box-sizing: border-box;
@@ -546,7 +559,6 @@ h3 {
     flex-direction: column;
     width: 100%;
     padding: 0;
-    margin-bottom: 1rem;
   }
 
   section.follow-me.container,
