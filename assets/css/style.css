@@ -120,7 +120,6 @@ img {
   display: block;
   border-radius: var(--rad-default);
   margin: 1.5rem 0 1.5rem 0;
-  filter: drop-shadow(0 0 0.35rem var(--color-shadow));
 }
 
 
@@ -158,21 +157,14 @@ header
 ========
 */
 
-.menu ul {
-  justify-content: space-evenly;
-}
-
 nav.menu {
   width: 100%;
   margin-top: 1em;
 }
-
 nav.menu li {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
 }
-
 
 /*
 ========
@@ -243,9 +235,6 @@ about-me
   filter: brightness(90%);
 }
 
-.aboutme-header {
-  max-height: 70vh;
-}
 
 .aboutme-img {
   margin-right: 0;
@@ -313,7 +302,7 @@ contact-me
 ========
 */
 
-#form {
+.form {
   padding-bottom: 5rem;
 }
 
@@ -369,25 +358,14 @@ footer
 ========
 */
 
-
 footer h3 {
   margin-bottom: 2em;
 }
 
 footer.split {
   box-sizing: border-box;
-  flex-direction: column;
   flex-direction: row;
   padding: 0;
-  justify-content: space-between;
-}
-
-.follow-me,
-.footer-links {
-  justify-content: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-evenly;
 }
 
 
@@ -398,7 +376,7 @@ media-queries
 */
 
 
-/*large screens*/
+/***large screens***/
 
 @media only screen and (min-width: 50rem) {
   .split {
@@ -421,28 +399,43 @@ media-queries
 }
 
 
-/*medium-small screens*/
+/***medium-small screens***/
 
 @media only screen and (min-width: 20rem) and (max-width: 50rem) {
 
+  /*general*/
   .container,
   .aboutme-text,
   .aboutme .container.split {
     margin-inline: 2.5rem;
   }
 
+  h2 {
+    font-size: 2rem;
+  }
+ /*aboutme*/
+ .aboutme-img img {
+   max-height: 40vh;
+ }
+  /*services*/
   .service-header.container {
     padding: 2.5rem;
   }
 
-  h2 {
-    font-size: 2rem;
+  section.service-one,
+  section.service-two {
+    margin-bottom: 0;
+  }
+
+  #service-two-img {
+    margin-left: 0;
   }
 
   #service-two-container {
     flex-direction: column-reverse;
   }
 
+  /*footer*/
   footer h3 {
     margin-bottom: 1rem;
   }
@@ -453,16 +446,6 @@ media-queries
     margin: 0 1rem 0 1rem;
     justify-content: space-around;
     justify-items: center;
-  }
-
-
-  #service-two-img {
-    margin-left: 0;
-  }
-
-  section.service-one,
-  section.service-two {
-    margin-bottom: 0;
   }
 
   section.follow-me.container section.footer-links.container {
@@ -476,52 +459,26 @@ media-queries
 }
 
 
-/*extra-small screens*/
+/***extra-small screens***/
 
 @media only screen and (max-width: 20rem) {
-  img {
-    display: none;
-  }
 
+  /*general*/
   .container,
-  #service-two-container,
   .container.split,
   .aboutme-text,
-  .service-one,
-  .service-two,
-  .service-three,
   h1,
-  h2,
-  h3 {
+  h2 {
     margin-inline: 1rem;
   }
 
-  .aboutme .container.split {
-    margin-inline: 0;
-  }
-
-  .service-header.container {
-    padding: 1.5rem 0 2.5rem 0;
-  }
-
-  .form-input {
+  img {
     display: none;
-  }
-
-  .small-screen-msg {
-    display: flex;
-  }
-
-  body,
-  li,
-  p {
-    font-size: 1rem;
   }
 
   h1 {
     font-size: 2rem;
     margin-bottom: 0.5em;
-    margin-inline: 2rem;
   }
 
   h2 {
@@ -532,27 +489,47 @@ media-queries
     font-size: 1.3rem;
   }
 
-  .service-text {
-    padding: 0.5em;
+  li,
+  p {
+    font-size: 1rem;
   }
 
-  .container {
-    margin-inline: 2rem;
-  }
-
+  /*hero*/
   h2.hero-header {
     margin-inline: 0;
     width: 90%;
     font-size: 1.5rem;
   }
 
-  section.service-one,
-  section.service-two,
-  section.service-three {
-    margin: 0;
+  /*aboutme*/
+  .aboutme .container.split {
+    margin-inline: 0;
+    padding-top: 2rem;
   }
 
+  .aboutme-header h3 {
+    margin-inline: 1rem;
+  }
 
+  /*services*/
+  .service-header.container {
+    padding: 0 0 2.5rem 0;
+  }
+
+  /*form*/
+  .form-input {
+    display: none;
+  }
+
+  .small-screen-msg {
+    display: flex;
+  }
+
+  .form {
+    padding-bottom: 2rem;
+  }
+
+  /*footer*/
   footer.split {
     box-sizing: border-box;
     display: flex;
@@ -567,6 +544,14 @@ media-queries
     margin: 0;
     justify-content: space-around;
     justify-items: center;
+  }
+
+  section.footer-links.container {
+    padding-bottom: 2rem;
+  }
+
+  section.follow-me.container {
+    padding-top: 2rem;
   }
 
   .follow-me .footer-links {
