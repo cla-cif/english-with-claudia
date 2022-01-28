@@ -284,6 +284,7 @@ section.service-one {
   border-radius: var(--rad-default);
   padding: 1.5rem;
   filter: drop-shadow(0 0 0.35rem var(--color-shadow));
+  width: 650px;
 }
 
 #service-two-img {
