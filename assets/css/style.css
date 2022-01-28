@@ -1,5 +1,5 @@
 :root {
-  --bg-hero: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/hero-bigger.webP") no-repeat;
+  --bg-hero: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/hero.webP") no-repeat;
   --bg-color: #f1f0eb;
   --color-item: #e85a4f;
   --color-shadow: #8e8d8a;
