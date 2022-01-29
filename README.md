@@ -38,7 +38,7 @@ In this section, you should go over the different parts of your project, and des
 
 ![Service](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/services.jpeg)
 
-- __Contact me section __ 
+- __Contact me section__ 
 
 - The contact me section is intuitive and presented with the promise of getting a reply within 24 hours. The form is placed on the right to ease the natural eye movement from left to right of Western readers. 
 - The form's fields are mandatory and an alert warns the user in case some fields are left blank before submission. 
