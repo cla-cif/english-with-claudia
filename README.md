@@ -34,55 +34,30 @@ In this section, you should go over the different parts of your project, and des
 
 - __About me Section__
 
-  - The About me section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture's aim is  to inspire confidence and the welcome message's aim is to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring but at the end of the text there's and invitation to find out more that links to the social media buttons of the footer. 
-  
-  will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The About me section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture's aim is  to inspire confidence and the welcome message's aim is to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons of the footer. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __Services section__
 
-  - This section replies to the question most users/students will ask themselves at some point, "are these lessons right for me?" It presents in a few effective sentences the three main features of the teaching service: "tailored", "strategical" and "flexible". 
-  - Each feature is accompanied by an image in line with the side message and the webisite colours. Images are simple, easy to understand and convey a message functional to the website goal. 
+  - This section replies to the question most users/students will ask themselves at some point, "are these lessons right for me?". The section presents in a few effective sentences the three main features of the teaching service: "tailored", "strategical" and "flexible". 
+  - Each feature is accompanied by an image in line with the side message and the webisite colours. Images are simple, easy to understand and convey a message inspired to the website goals. 
   - Times, hours and contintions will be updated whenever necessary. 
- 
- will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
-- __The Contact me section __ 
+- __Contact me section __ 
 
 - The contact me section is intuitive and presented with the promise of getting a reply within 24 hours. The form is placed on the right to ease the natural eye movement from left to right of Western readers. 
 - The form's fields are mandatory and an alert warns the user in case some fields are left blank before submission. 
 
 - __The Footer__ 
 
-  - The footer's right section includes links to the relevant social media sites of English with Claudia and it's teacher. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer's right section includes links to the relevant social media sites of English with Claudia and it's teacher. The links will open to a new tab to allow easy navigation for the users. 
   - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some useful information before submitting the form. 
+  - The footer purpose is to invite the user to find out more about the teaching method and the teacher's bio. 
   
-  
-  - The footer is valuable to the users as it encourages them to keep connected via social media
-
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
@@ -90,27 +65,49 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Testing 
 
-The website responsive feature has been tested with Chrome DevTools and online testers (####) from small screens (eg: iPhone 4) to extra wide screens (####) and their landscape view resulting in a seamless navigation. 
+The webpage features have been tested througlhy with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- __Web Responsive__
+The responsive feature has been tested with Chrome DevTools and an online Web [Design checher](https://responsivedesignchecker.com/). 
+The website layout has been tested on different screen sizes, from small screens 320x480 (eg: Apple iPhone 3) to wide screens 24" and their landscape view providing a good user experience. 
+The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly). 
+Note: Images and submit form have been removed from small screens layout to obtain better readability. 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+- __Accessibility__
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+- Colors: All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
+- Color Blindness: Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
+- General Accessibility has been tested on:
+-                                          [Site Improve](https://siteimprove.com/en/) getting a score of 96%. 
+-                                          Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
+-                                          [Power Mapper](https://www.powermapper.com/) presenting no issues. 
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+- __Browser Compatibility__
+The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
+
+- __SEO__
+The website has been tested on:
+                                [SEO Tester](https://www.seotesteronline.com/) getting a score of 
+                                Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
+-__Overall Quality__
+The website has been tested on [Power Mapper](https://www.powermapper.com/) getting a 
+
+
+- __Bugs and Problems__
+
+Images present the best compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size assuring minimal quality loss. Nonetheless low scores on Largest Contentful Paint (LCP) side were achieved.
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+No unfixed bug known. 
 
 ## Deployment
 
@@ -118,10 +115,10 @@ This section should describe the process you went through to deploy the project 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
+  - From the dedicated GitHub Pages tab, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)
 
 
 ## Credits 
@@ -132,17 +129,14 @@ You can break the credits section up into Content and Media, depending on what y
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The text was parttially taken from [My Enlish Theacher Tom](https://www.myenglishteachertom.com/)
+- Responsivness and CSS strings were taken from  [Kevin Powell tutorials](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- All the photos are from [Pexels](https://www.pexels.com/)
 
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
 
 ## Other General Project Advice
 
