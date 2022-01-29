@@ -117,9 +117,17 @@ input.join-button:hover {
 a#joinme-text::before {
   content: ' → ' attr(social);
 }
-
 a#joinme-text:hover {
   color:var(--color-item);
+}
+@media (prefers-reduced-motion) {
+  h1:hover,
+  i:hover,
+  li:hover,
+  input.join-button:hover {
+    transform:none;
+    transition:none;
+  }
 }
 /* ======== header ======== */
 nav.menu {
