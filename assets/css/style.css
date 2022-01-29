@@ -31,9 +31,6 @@ section, header, footer {
   align-items: center;
   justify-content: center;
 }
-strong {
-  text-decoration: underline;
-}
 .visually-hidden {
   display: none;
 }
