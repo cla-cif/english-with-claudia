@@ -142,7 +142,7 @@ h2.hero-header {
   margin-left: 0;
   display: flex;
   margin-bottom: 0;
-  font-size: 2rem;
+  font-size: 5vh;
 }
 .hero-box {
   display: flex;
@@ -290,11 +290,11 @@ footer.split {
   padding: 0;
 }
 /* ============= media-queries ============= */
-@media all and (orientation: landscape) {
+/* @media all and (orientation: landscape) {
   h2.hero-header {
     font-size: 6vh;
   }
-}
+} */
 /***large screens***/
 @media only screen and (min-width: 50rem) {
   .split {
@@ -318,6 +318,9 @@ footer.split {
  }
   h2 {
       font-size: 2rem;
+ }
+ h2.hero-header {
+   font-size: 4vh;
  }
  /*aboutme*/
   .aboutme-img img {
