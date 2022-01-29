@@ -40,8 +40,8 @@ In this section, you should go over the different parts of your project, and des
 
 - __Contact me section__ 
 
-- The contact me section is intuitive and presented with the promise of getting a reply within 24 hours. The form is placed on the right to ease the natural eye movement from left to right of Western readers. 
-- The form's fields are mandatory and an alert warns the user in case some fields are left blank before submission. 
+  - The contact me section is intuitive and presented with the promise of getting a reply within 24 hours. The form is placed on the right to ease the natural eye movement from left to right of Western readers. 
+  - The form's fields are mandatory and an alert warns the user in case some fields are left blank before submission. 
 
 ![Contact me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/form.jpeg)
 
@@ -69,21 +69,22 @@ Note: Images and submit form have been removed from small screens layout to obta
 
 - __Accessibility__
 
-- __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
-- __Color Blindness:__ Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
-- __General Accessibility:__ has been tested on:
--[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com) getting a score of 93%. 
--Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
-[Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
+  - __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
+  - __Color Blindness:__ Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
+  - __General Accessibility:__ has been tested on:
+    -[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com) getting a score of 93%. 
+    -Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
+    -[Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
 
 - __Browser Compatibility__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
 
 - __SEO__
 The website has been tested on:
--[SEO Tester](https://www.seotesteronline.com/) getting a score of 
+  -[SEO Tester](https://www.seotesteronline.com/) getting a score of 
 Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
--__Overall Quality__
+
+- __Overall Quality__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) getting a 
 
 
