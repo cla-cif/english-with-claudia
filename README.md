@@ -51,7 +51,7 @@ In this section, you should go over the different parts of your project, and des
   - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some useful information before submitting the form. 
   - The footer purpose is to invite the user to find out more about the teaching method and the teacher's bio. 
   
-![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/form.jpeg)
+![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpeg)
 
 ### Features Left to Implement
 
@@ -62,9 +62,9 @@ In this section, you should go over the different parts of your project, and des
 The webpage features have been tested througlhy with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
 
 - __Web Responsive__
-The responsive feature has been tested with Chrome DevTools and an online Web [Design checher](https://responsivedesignchecker.com/). 
+The responsive feature has been tested with Chrome DevTools and an online Web [Design checker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&width=1400&height=700). 
 The website layout has been tested on different screen sizes, from small screens 320x480 (eg: Apple iPhone 3) to wide screens 24" and their landscape view providing a good user experience. 
-The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly). 
+The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
 Note: Images and submit form have been removed from small screens layout to obtain better readability. 
 
 - __Accessibility__
@@ -72,17 +72,17 @@ Note: Images and submit form have been removed from small screens layout to obta
 - Colors: All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
 - Color Blindness: Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
 - General Accessibility has been tested on:
--                                          [Site Improve](https://siteimprove.com/en/) getting a score of 96%. 
--                                          Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
--                                          [Power Mapper](https://www.powermapper.com/) presenting no issues. 
+[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com) getting a score of 93%. 
+Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
+[Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
 
 - __Browser Compatibility__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
 
 - __SEO__
 The website has been tested on:
-                                [SEO Tester](https://www.seotesteronline.com/) getting a score of 
-                                Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
+[SEO Tester](https://www.seotesteronline.com/) getting a score of 
+Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
 -__Overall Quality__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) getting a 
 
