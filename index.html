@@ -168,11 +168,11 @@
       </div>
       <div class="form-input">
         <form method="POST" action="#" class="signup-form">
-          <label for="name"></label>
-          <input id="name" name="name" type="text" class="text-input" placeholder="Name" required>
-          <label for="email"></label>
+          <label for="name" aria-label="Insert your full name, the field is mandatory"></label>
+          <input id="name" name="name" type="text" class="text-input" placeholder="Full name" required>
+          <label for="email" aria-label="Insert your email, the field is mandatory"></label>
           <input type="email" id="email" name="email_address" class="text-input" placeholder="Email" required>
-          <label for="message"></label>
+          <label for="message" aria-label="Insert your message for me, the field is mandatory"></label>
           <textarea class="message-input" id="message" rows="7" cols="50" name="message" placeholder="Message"
             required></textarea>
           <input class="join-button" type="submit" value="Send!">
