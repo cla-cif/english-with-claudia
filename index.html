@@ -168,14 +168,14 @@
       </div>
       <div class="form-input">
         <form method="POST" action="#" class="signup-form">
-          <label for="name" aria-label="Insert your full name, the field is mandatory"></label>
+          <label for="name" aria-label="Insert your full name, the field is mandatory" class="visually-hidden">Full name</label>
           <input id="name" name="name" type="text" class="text-input" placeholder="Full name" required>
-          <label for="email" aria-label="Insert your email, the field is mandatory"></label>
+          <label for="email" aria-label="Insert your email, the field is mandatory" class="visually-hidden">Email</label>
           <input type="email" id="email" name="email_address" class="text-input" placeholder="Email" required>
-          <label for="message" aria-label="Insert your message for me, the field is mandatory"></label>
+          <label for="message" aria-label="Insert your message for me, the field is mandatory" class="visually-hidden">Message</label>
           <textarea class="message-input" id="message" rows="7" cols="50" name="message" placeholder="Message"
             required></textarea>
-          <input class="join-button" type="submit" value="Send!">
+          <input class="join-button" type="submit" value="Send!" aria-label="Send button">
         </form>
       </div>
     </div>
