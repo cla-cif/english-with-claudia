@@ -45,24 +45,14 @@
   <section id="aboutme">
     <div class="container split">
       <div class="aboutme-img">
-        <img
-          src="assets/images/aboutme.webP"
-          type="image/webP"
-          alt="This is a picture of me holding the Union Jack in my right hand"
-          loading="lazy"
-          decoding="async"
-          height="936"
-          width="936"
-        />
-        <img
-          src="assets/images/aboutme.jpeg"
-          type="image/jpeg"
-          alt="This is a picture of me holding the Union Jack in my right hand"
-          loading="lazy"
-          decoding="async"
-          height="936"
-          width="936"
-        />
+        <picture>
+          <source srcset="assets/images/aboutme.webP" type="image/webp">
+          <source srcset="assets/images/aboutme.jpeg" type="image/jpeg"> 
+          <img src="assets/images/aboutme.webP" type="image/webP"
+            alt="This is a picture of me holding the Union Jack in my right hand" loading="lazy" decoding="async"
+            height="936" width="936" />
+        </picture>
+      
       </div>
       <div class="aboutme-header">
         <h2>Hi there! Thanks for stopping by and welcome to my website.</h2>
@@ -104,7 +94,8 @@
         texts, doing grammar exercises or practising pronunciation.
       </p>
       <p id="joinme-par">
-       Find out more on my <a href="#joinme-links" id="joinme-text" aria-label="link to the footer with social media links">social media pages.</a>
+        Find out more on my <a href="#joinme-links" id="joinme-text"
+          aria-label="link to the footer with social media links">social media pages.</a>
       </p>
     </div>
   </section>
@@ -116,20 +107,13 @@
   <section class="service-one">
     <div class="container split">
       <div class="service-img">
-        <img src="assets/images/service-one.webP" 
-        type="image/webP"
-        alt="tailor's tools on a desk" 
-        width="450" 
-        height="300" 
-        loading="lazy"
-        decoding="async" />
-        <img src="assets/images/service-one.jpeg" 
-        type="image/jpeg"
-        alt="tailor's tools on a desk" 
-        width="450" 
-        height="300" 
-        loading="lazy"
-        decoding="async" />
+        <picture>
+          <source srcset="assets/images/service-one.webP" type="image/webp">
+          <source srcset="assets/images/service-one.jpeg" type="image/jpeg"> 
+          <img src="assets/images/service-one.webP" type="image/webP" alt="tailor's tools on a desk" width="450"
+            height="300" loading="lazy" decoding="async" />
+        </picture>
+        
       </div>
       <div class="service-text">
         <h3>Tailored</h3>
@@ -155,20 +139,13 @@
         </p>
       </div>
       <div class="service-img" id="service-two-img">
-        <img src="assets/images/service-two.webP" 
-        type="image/webP"
-        width="450" 
-        height="300" 
-        alt="an open book on a wooden table"  
-        loading="lazy"
-        decoding="async" />
-        <img src="assets/images/service-two.jpeg" 
-        type="image/jpeg"
-        width="450" 
-        height="300" 
-        alt="an open book on a wooden table"  
-        loading="lazy"
-        decoding="async" />
+        <picture>
+          <source srcset="assets/images/service-two.webP" type="image/webp">
+          <source srcset="assets/images/service-two.jpeg" type="image/jpeg"> 
+          <img src="assets/images/service-two.webP" type="image/webP" width="450" height="300"
+            alt="an open book on a wooden table" loading="lazy" decoding="async" />
+        </picture>
+   
       </div>
     </div>
   </section>
@@ -176,20 +153,14 @@
   <section class="service-three">
     <div class="container split">
       <div class="service-img">
-        <img src="assets/images/service-three.webP"
-          alt="the hand of a person taking notes during in front of a notebook" 
-          type="image/webP"
-          width="450" 
-          height="300" 
-          loading="lazy"
-          decoding="async" />
-          <img src="assets/images/service-three.jpeg"
-          alt="the hand of a person taking notes during in front of a notebook" 
-          type="image/jpeg"
-          width="450" 
-          height="300" 
-          loading="lazy"
-          decoding="async" />
+        <picture>
+          <source srcset="assets/images/service-three.webP" type="image/webp">
+          <source srcset="assets/images/service-three.jpeg" type="image/jpeg"> 
+          <img src="assets/images/service-three.webP"
+            alt="the hand of a person taking notes during in front of a notebook" type="image/webP" width="450"
+            height="300" loading="lazy" decoding="async" />
+        </picture>
+  
       </div>
       <div class="service-text">
         <h3>Flexible</h3>
@@ -201,7 +172,7 @@
       </div>
     </div>
   </section>
-<hr>
+  <hr>
   <section id="form">
     <div class="container split">
       <div class="form-description">
@@ -215,11 +186,14 @@
       </div>
       <div class="form-input">
         <form method="POST" action="#" class="signup-form">
-          <label for="name" aria-label="Insert your full name, the field is mandatory" class="visually-hidden">Full name</label>
+          <label for="name" aria-label="Insert your full name, the field is mandatory" class="visually-hidden">Full
+            name</label>
           <input id="name" name="name" type="text" class="text-input" placeholder="Full name" required>
-          <label for="email" aria-label="Insert your email, the field is mandatory" class="visually-hidden">Email</label>
+          <label for="email" aria-label="Insert your email, the field is mandatory"
+            class="visually-hidden">Email</label>
           <input type="email" id="email" name="email_address" class="text-input" placeholder="Email" required>
-          <label for="message" aria-label="Insert your message for me, the field is mandatory" class="visually-hidden">Message</label>
+          <label for="message" aria-label="Insert your message for me, the field is mandatory"
+            class="visually-hidden">Message</label>
           <textarea class="message-input" id="message" rows="7" cols="50" name="message" placeholder="Message"
             required></textarea>
           <input class="join-button" type="submit" value="Send!" aria-label="Send button">
