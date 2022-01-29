@@ -191,13 +191,13 @@
         <form method="POST" action="#" class="signup-form">
           <label for="name" aria-label="Insert your full name, the field is mandatory" class="visually-hidden">Full
             name</label>
-          <input name="name" type="text" class="text-input" placeholder="Full name" required>
+          <input name="name" type="text" class="text-input" placeholder="Full name" aria-label="Full name" required>
           <label for="email" aria-label="Insert your email, the field is mandatory"
             class="visually-hidden">Email</label>
-          <input type="email" name="email_address" class="text-input" placeholder="Email" required>
+          <input type="email" name="email_address" class="text-input" placeholder="Email" aria-label="Email" required>
           <label for="message" aria-label="Insert your message for me, the field is mandatory"
             class="visually-hidden">Message</label>
-          <textarea class="message-input" id="message" rows="7" cols="50" name="message" placeholder="Message"
+          <textarea class="message-input" rows="7" cols="50" name="message" placeholder="Message" aria-label="Message"
             required></textarea>
           <input class="join-button" type="submit" value="Send!" aria-label="Send button">
         </form>
