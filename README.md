@@ -4,7 +4,7 @@ English with Claudia is the landing pad website for English students. The site i
 
 Given the educational purpose of the website, a special accent was put on accessibility to welcome any student, therefore high-contrast colors and a light graphic where priviliged among other choices. 
 
-![Responsice Mockup](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/hero.jpeg)
+![Landing page](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/landing-page.jpeg)
 
 ## Features 
 
@@ -15,24 +15,20 @@ In this section, you should go over the different parts of your project, and des
 - __Navigation Bar__
 
   - The full responsive navigation bar is made for easy navigation across all devices. It includes links to the "About Me" section and "Contact Me" form which is the     website's core. The navigation bar is intentionally fixed to the top to avoid distraction and convey each section message in the most clear and direct way. 
-  
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
-
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+ 
+![Nav Bar](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/nav.jpeg)
 
 - __The landing page image__
 
   - The landing includes a photograph with contrast text overlay which allows the user to instantly catch the three main services offered by the teacher. 
-  
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Hero](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/hero.jpeg)
 
 - __About me Section__
 
   - The About me section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture's aim is  to inspire confidence and the welcome message's aim is to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons of the footer. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
 - __Services section__
 
@@ -40,12 +36,14 @@ In this section, you should go over the different parts of your project, and des
   - Each feature is accompanied by an image in line with the side message and the webisite colours. Images are simple, easy to understand and convey a message inspired to the website goals. 
   - Times, hours and contintions will be updated whenever necessary. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Service](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/services.jpeg)
 
 - __Contact me section __ 
 
 - The contact me section is intuitive and presented with the promise of getting a reply within 24 hours. The form is placed on the right to ease the natural eye movement from left to right of Western readers. 
 - The form's fields are mandatory and an alert warns the user in case some fields are left blank before submission. 
+
+![Contact me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/form.jpeg)
 
 - __The Footer__ 
 
@@ -53,7 +51,7 @@ In this section, you should go over the different parts of your project, and des
   - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some useful information before submitting the form. 
   - The footer purpose is to invite the user to find out more about the teaching method and the teacher's bio. 
   
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/form.jpeg)
 
 ### Features Left to Implement
 
