@@ -69,11 +69,11 @@ Note: Images and submit form have been removed from small screens layout to obta
 
 - __Accessibility__
 
-- Colors: All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
-- Color Blindness: Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
-- General Accessibility has been tested on:
-[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com) getting a score of 93%. 
-Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
+- __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
+- __Color Blindness:__ Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
+- __General Accessibility:__ has been tested on:
+-[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com) getting a score of 93%. 
+-Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
 [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
 
 - __Browser Compatibility__
@@ -81,7 +81,7 @@ The website has been tested on [Power Mapper](https://www.powermapper.com/) pres
 
 - __SEO__
 The website has been tested on:
-[SEO Tester](https://www.seotesteronline.com/) getting a score of 
+-[SEO Tester](https://www.seotesteronline.com/) getting a score of 
 Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
 -__Overall Quality__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) getting a 
