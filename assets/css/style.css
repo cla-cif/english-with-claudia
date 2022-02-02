@@ -274,6 +274,7 @@ div.hero-box.container.split {
   filter: drop-shadow(0 0 0.35rem var(--color-shadow));
   height: auto;
   max-width: 40rem;
+  margin-top: 3rem;
   padding: 1.5rem;
 }
 
