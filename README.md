@@ -1,6 +1,6 @@
-# English With Claudia
+<h1 align="center">English with Claudia</h1>
 
-__Follow this link to the website - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
+__[Follow this link to the website](https://cla-cif.github.io/english-with-claudia/)__
 
 English with Claudia is the landing pad website for English students. The site is targeted toward learners of all ages and levels who aim to stay fluent or improve their language skills thanks to a tailored and flexible teaching method provided by the teacher Claudia. English with Claudia is straighforward and easy to browse: the aim is to stimulate curiosity and get the student to the "Contact me" form in less than three clicks. 
 
@@ -8,12 +8,27 @@ Given the educational purpose of the website, a special accent was put on access
 
 ![Landing page](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/landing-page.jpeg)
 
-## Features 
+## Wireframes
 
 The page was conceived with an intuitive layout, accessible, easy to browse, with the striclty necessary information and less-invasive pictures. 
 [Balsamiq](https://balsamiq.com/) was used to get "ideas on paper". 
 
-![Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
+[Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
+
+## Design
+
+- __Colours__
+        -   The two main colours used are orange and white. Orange was chosen because it's an energetic and attention-grabbing colour as psychologists suggest [here](https://www.verywellmind.com/the-color-psychology-of-orange-2795818). White was chosen for better contrast ratio between background and text. 
+- __Typography__
+        -   Oswald for headings and Nunito for paragraphs and other elements, paired as suggested by Google Fonts. 
+- __Images__
+        -   The images are simple and inviting. All of them have an alt text to maximise accessibility. 
+
+## Features 
+
+-   Responsive on all device sizes
+-   Accessible for hearing and visual impairments
+-   Interactive elements
 
 ### Existing Features
 
@@ -79,9 +94,9 @@ Note: Images and submit form have been removed from small screens layout to obta
   - __Color Blindness:__ Colorblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
   - __Screen Reader:__ Text and links were read with Google Chrome extention Screen Reader (version 53.0.2784.13). 
   - __General Accessibility:__ has been tested with satisfactory results on:
-      1 [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
-      2 Google Light House (mobile and desktop version). 
-      3 [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no critical issues. 
+      1. [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
+      2. Google Light House (mobile and desktop version). 
+      3. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no critical issues. 
 
 - __Browser Compatibility__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
