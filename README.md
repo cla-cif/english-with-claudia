@@ -89,12 +89,12 @@ The website has been tested on:
   - Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
 
 - __Performances__
-  -The website has been tested on [Power Mapper](https://www.powermapper.com/).
-  -Performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
+  - The website has been tested on [Power Mapper](https://www.powermapper.com/).
+  - Performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
 - __Bugs and Problems__
 
-Images present the best compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size assuring minimal quality loss. Nonetheless low scores on Largest Contentful Paint (LCP) side were achieved.
+- Images present the best compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size assuring minimal quality loss. Nonetheless low scores on Largest Contentful Paint (LCP) side were achieved.
 
 
 ### Validator Testing 
