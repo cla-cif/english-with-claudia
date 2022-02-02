@@ -79,7 +79,7 @@ Note: Images and submit form have been removed from small screens layout to obta
   - __General Accessibility:__ has been tested with satisfactory results on:
       1 [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
       2 Google Light House (mobile and desktop version). 
-      3 [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
+      3 [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no critical issues. 
 
 - __Browser Compatibility__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
