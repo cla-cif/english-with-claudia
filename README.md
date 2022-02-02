@@ -164,8 +164,8 @@ The website has been tested on:
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
-
-No unfixed bug known. 
+There is a loss of information from the header section when the page is displayed on IE 11 running on Win 10 because the header is not shown. 
+CSS property display:flex is not supported by IE11. 
 
 ## Deployment
 
