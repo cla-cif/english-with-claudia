@@ -367,6 +367,7 @@ footer.split {
 
 /* ============= media-queries ============= */
 
+
 /***large screens***/
 @media only screen and (min-width: 50rem) {
   .split {
@@ -560,5 +561,17 @@ footer.split {
 
   footer h3 {
     margin-bottom: 0.5em;
+  }
+}
+/***horizontal orientation***/
+@media (orientation: landscape) {
+  h2.hero-header {
+    font-size: 7vh;
+  }
+  .aboutme-img {
+   height: 40vh;
+   width: auto;
+   margin:0;
+
   }
 }
