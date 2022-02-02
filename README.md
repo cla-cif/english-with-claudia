@@ -87,7 +87,7 @@ The responsive feature has been tested with Chrome DevTools and an online Web [D
 The website layout has been tested on different screen sizes, from small screens 320x480 (eg: Apple iPhone 3) to wide screens 24" and their landscape view providing a good user experience. 
 The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
 Note: Images and submit form have been removed from small screens layout to obtain better readability. 
-![This is a preview of how the webpage looks on different screens](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
+[This is a preview of how the webpage looks on different screens](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
 
 - __Accessibility__
 
