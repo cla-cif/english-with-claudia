@@ -1,5 +1,7 @@
 # English With Claudia
 
+__Follow this link to the website - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
+
 English with Claudia is the landing pad website for English students. The site is targeted toward learners of all ages and levels who aim to stay fluent or improve their language skills thanks to a tailored and flexible teaching method provided by the teacher Claudia. English with Claudia is straighforward and easy to browse: the aim is to stimulate curiosity and get the student to the "Contact me" form in less than three clicks. 
 
 Given the educational purpose of the website, a special accent was put on accessibility to welcome any student, therefore high-contrast colors and a light graphic where priviliged among other choices. 
