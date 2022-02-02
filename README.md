@@ -137,6 +137,10 @@ __The live link can be found here - [English with Claudia](https://cla-cif.githu
 
 ## Credits 
 
+### Content
+
+-  All content was written by the developer Claudia Cifaldi.
+
 ### Content 
 
 - The text was partially taken from [My Enlish Theacher Tom](https://www.myenglishteachertom.com/)
