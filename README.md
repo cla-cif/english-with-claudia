@@ -93,8 +93,7 @@ The website has been tested on:
   - Performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
 - __Bugs and Problems__
-
-- Images present the best compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size assuring minimal quality loss. Nonetheless low scores on Largest Contentful Paint (LCP) side were achieved.
+  - Images present the best compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size assuring minimal quality loss. Nonetheless low scores on Largest Contentful Paint (LCP) side were achieved.
 
 
 ### Validator Testing 
