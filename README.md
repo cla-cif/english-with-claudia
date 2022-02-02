@@ -8,19 +8,37 @@ Given the educational purpose of the website, a special accent was put on access
 
 ![Landing page](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/landing-page.jpeg)
 
-## Wireframes
+
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### First Time Visitor Goals
+
+        1. As a First Time Visitor, I want to understand if the services are right for me. 
+        2. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find content, find sufficient contrast ratio, find suitable colours,   find animations disabled. 
+        3. As a First Time Visitor, I might want to find out more about the service on social media. 
+        4. As a First Time Visitor, I want to get in touch with the organisation easily, quickly and effectively. 
+        
+    -   #### Returning Visitor Goals
+
+        1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up-to-date. 
+        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+        3. As a Returning Visitor, I want to find community links.
+        
+-   ### Wireframes
 
 The page was conceived with an intuitive layout, accessible, easy to browse, with the striclty necessary information and less-invasive pictures. 
 [Balsamiq](https://balsamiq.com/) was used to get "ideas on paper". 
 
 [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
 
-## Design
+-  ### Design
 
 - __Colours__
-        -   The two main colours used are orange and white. Orange was chosen because it's an energetic and attention-grabbing colour as psychologists suggest [here](https://www.verywellmind.com/the-color-psychology-of-orange-2795818). White was chosen for better contrast ratio between background and text. 
+        -   The two main colours used are orange and white. Orange was chosen because it's an energetic and attention-grabbing colour as psychologists suggest [here](https://www.verywellmind.com/the-color-psychology-of-orange-2795818). White was chosen for an optimal contrast ratio between background and text. 
 - __Typography__
-        -   Oswald for headings and Nunito for paragraphs and other elements, paired as suggested by Google Fonts. 
+        -   'Oswald' for headings and 'Nunito' for paragraphs and other elements, paired as suggested by Google Fonts. 
 - __Images__
         -   The images are simple and inviting. All of them have an alt text to maximise accessibility. 
 
@@ -29,6 +47,8 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 -   Responsive on all device sizes
 -   Accessible for hearing and visual impairments
 -   Interactive elements
+
+![Screenshot from Am I Responsive webpage](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
 
 ### Existing Features
 
@@ -78,6 +98,28 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 - Making the Submit button operative. 
 - Implement an efficient cache policy. 
 
+## Technologies Used
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Oswald' and 'Nunito' font into the HTML page. 
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used for the social media links in the footer section.
+1. [Gitpod](https://www.gitpod.io/)
+    - Gitpod Dashboard was use to write the code and its terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [JPEGMiniPRo](https://www.jpegmini.com/creators)
+    - JPEG Mini Pro was used to compress the image size assuring minimal quality loss.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the [wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png) before starting the deployment process. 
+ 
 ## Testing 
 
 The webpage features have been tested througlhy with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
@@ -87,7 +129,6 @@ The responsive feature has been tested with Chrome DevTools and an online Web [D
 The website layout has been tested on different screen sizes, from small screens 320x480 (eg: Apple iPhone 3) to wide screens 24" and their landscape view providing a good user experience. 
 The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
 Note: Images and submit form have been removed from small screens layout to obtain better readability. 
-[This is a preview of how the webpage looks on different screens](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
 
 - __Accessibility__
 
@@ -138,7 +179,7 @@ __The live link can be found here - [English with Claudia](https://cla-cif.githu
 
 ## Credits 
 
-### Content
+### Code
 
 -  All content was written by the developer Claudia Cifaldi.
 
