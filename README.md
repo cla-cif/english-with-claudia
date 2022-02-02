@@ -44,7 +44,7 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 ## Features 
 
 -   Responsive on all device sizes
--   Accessible for hearing and visual impairments
+-   Accessible to users with hearing and visual impairments
 -   Interactive elements
 
 ![Screenshot from Am I Responsive webpage](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
