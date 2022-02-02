@@ -1,29 +1,29 @@
 :root {
   --bg-hero: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/hero.jpeg") no-repeat;
   --bg-color: #f1f0eb;
+  --color-dark: #000;
+  --color-light: #fafafa;
   --color-item: #e85a4f;
   --color-shadow: #8e8d8a;
-  --color-light: #fafafa;
-  --color-dark: #000;
-  --ff-headings: "Oswald", sans serif;
   --ff-body: "Nunito Sans", sans serif;
+  --ff-headings: "Oswald", sans serif;
   --rad-default: 0.18rem;
 }
 
 * {
   box-sizing: border-box;
+  color: var(--color-dark);
   letter-spacing: 0.03em;
   margin: 0;
   max-width: 100%;
-  color: var(--color-dark);
 }
 
 /* global styles */
 section,
 header,
 footer {
-  padding: 1rem 0;
   background-color: var(--bg-color);
+  padding: 1rem 0;
 }
 
 .container {
@@ -31,9 +31,9 @@ footer {
 }
 
 .split {
+  align-items: center;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
 }
 
@@ -75,16 +75,16 @@ body,
 li,
 p {
   font-family: var(--ff-body);
-  font-size: 1.1rem;
   line-height: 1.4;
+  font-size: 1.1rem;
   font-weight: 800;
 }
 
 ul {
-  list-style: none;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  list-style: none;
   margin-left: 0;
   padding-left: 0;
 }
@@ -104,12 +104,12 @@ a {
 }
 
 img {
-  max-width: 100%;
-  height: 100%;
-  display: block;
   border-radius: var(--rad-default);
+  display: block;
   filter: drop-shadow(0 0 0.35rem var(--color-shadow));
+  height: 100%;
   margin: 1.5rem 0 1.5rem 0;
+  max-width: 100%;
 }
 
 /*animation effects*/
@@ -118,26 +118,26 @@ h1:hover {
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
-  transition: .3s ease-in;
   transform: scale(1.1);
+  transition: .3s ease-in;
 }
 
 i:hover {
-  transition: .3s ease-in;
-  transform: scale(2);
   color: var(--color-item);
+  transform: scale(2);
+  transition: .3s ease-in;
 }
 
 a:hover,
 li:hover {
-  transition: .3s ease-in;
-  transform: scale(1.3);
   color: var(--color-item);
+  transform: scale(1.3);
+  transition: .3s ease-in;
 }
 
 input.join-button:hover {
-  transition: .3s ease-in;
   transform: scale(1.1);
+  transition: .3s ease-in;
 }
 
 #joinme-text::before {
@@ -181,36 +181,36 @@ nav.menu li {
 }
 
 h2.hero-header {
-  line-height: 1.1;
-  position: relative;
-  justify-content: center;
-  margin-left: 0;
   display: flex;
-  margin-bottom: 0;
   font-size: 5vh;
+  justify-content: center;
+  line-height: 1.1;
+  margin-left: 0;
+  margin-bottom: 0;
+  position: relative;
 }
 
 .hero-box {
   display: flex;
-  float: right;
-  position: relative;
-  max-width: 20em;
   flex-direction: row;
-  padding: 1em;
+  float: right;
   height: 100%;
+  max-width: 20em;
+  padding: 1em;
+  position: relative;
 }
 
 .hero-box::before {
   content: "";
-  opacity: .7;
   background-color: var(--color-item);
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  bottom: 0px;
-  left: 0px;
-  filter: drop-shadow(0 0 0.35rem var(--color-shadow));
   border-radius: var(--rad-default);
+  bottom: 0px;
+  filter: drop-shadow(0 0 0.35rem var(--color-shadow));
+  left: 0px;
+  opacity: .7;
+  position: absolute;
+  right: 0px;
+  top: 0px;
 }
 
 div.hero-box.container.split {
@@ -226,15 +226,15 @@ div.hero-box.container.split {
   border-radius: 50%;
   filter: brightness(90%);
   filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+  height: auto;
   object-fit: contain;
   width: auto;
-  height: auto;
 }
 
 .aboutme-img {
-  margin-right: 0;
   display: flex;
   justify-content: flex-end;
+  margin-right: 0;
 }
 
 .aboutme-text {
@@ -249,8 +249,8 @@ div.hero-box.container.split {
 
 /* ======== services ======== */
 .service-header.container {
-  padding: 3rem 0 3rem 0;
   margin: 0;
+  padding: 3rem 0 3rem 0;
 }
 
 .service-text p {
@@ -271,10 +271,10 @@ div.hero-box.container.split {
 .service-text {
   background-color: var(--color-light);
   border-radius: var(--rad-default);
-  padding: 1.5rem;
   filter: drop-shadow(0 0 0.35rem var(--color-shadow));
-  max-width: 40rem;
   height: auto;
+  max-width: 40rem;
+  padding: 1.5rem;
 }
 
 #service-two-img {
@@ -289,9 +289,9 @@ div.hero-box.container.split {
 
 .service-img {
   display: flex;
+  height: auto;
   justify-content: flex-end;
   max-width: 40rem;
-  height: auto;
 }
 
 /* ======== contact-me ======== */
@@ -310,43 +310,43 @@ div.hero-box.container.split {
 
 .form-input input[type="text"],
 .form-input input[type="email"] {
-  font-weight: 800;
-  width: 100%;
-  display: list-item;
   border: 0.1em solid var(--color-dark);
   border-radius: var(--rad-default);
+  display: list-item;
+  filter: drop-shadow(0 0 0.2rem var(--color-shadow));
   font-family: var(--ff-body);
   font-size: 1.1rem;
-  padding: 0.6rem;
+  font-weight: 800;
   margin-bottom: 1rem;
-  filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+  padding: 0.6rem;
+  width: 100%;
 }
 
 textarea {
-  font-weight: 800;
   border: 0.1em solid var(--color-dark);
   border-radius: var(--rad-default);
-  width: 100%;
-  padding: 0.6rem;
+  filter: drop-shadow(0 0 0.2rem var(--color-shadow));
   font-family: var(--ff-body);
   font-size: 1.1rem;
+  font-weight: 800;
   margin-bottom: 1rem;
+  padding: 0.6rem;
   resize: none;
-  filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+  width: 100%;
 }
 
 input.join-button {
-  border-radius: var(--rad-default);
   background: var(--color-item);
+  border-radius: var(--rad-default);
   border-style: none;
+  color: var(--color-light);
+  cursor: pointer;
+  display: list-item;
+  filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+  font-size: 1.5rem;
   padding: 1rem 2rem;
   text-align: center;
-  font-size: 1.5rem;
   width: 100%;
-  color: var(--color-light);
-  display: list-item;
-  cursor: pointer;
-  filter: drop-shadow(0 0 0.2rem var(--color-shadow));
 }
 
 .small-screen-msg {
@@ -435,10 +435,10 @@ footer.split {
 
   section.follow-me.container,
   section.footer-links.container {
-    width: 100%;
     margin: 0 1rem 0 1rem;
     justify-content: space-around;
     justify-items: center;
+    width: 100%;
   }
 
   section.follow-me.container section.footer-links.container {
@@ -486,9 +486,9 @@ footer.split {
 
   /*hero*/
   h2.hero-header {
+    font-size: 1.5rem;
     margin-inline: 0;
     width: 90%;
-    font-size: 1.5rem;
   }
 
   /*aboutme*/
@@ -524,16 +524,16 @@ footer.split {
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    width: 100%;
     padding: 0;
+    width: 100%;
   }
 
   section.follow-me.container,
   section.footer-links.container {
-    width: 100%;
     margin: 0;
     justify-content: space-around;
     justify-items: center;
+    width: 100%;
   }
 
   section.footer-links.container {
