@@ -75,6 +75,7 @@ Note: Images and submit form have been removed from small screens layout to obta
 
   - __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
   - __Color Blindness:__ Colorblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
+  - __Screen Reader:__ Text and links were read with Google Chrome extention Screen Reader (version 53.0.2784.13). 
   - __General Accessibility:__ has been tested with satisfactory results on:
       1 [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
       2 Google Light House (mobile and desktop version). 
