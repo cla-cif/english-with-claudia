@@ -11,7 +11,7 @@ Given the educational purpose of the website, a special accent was put on access
 The page was conceived with an intuitive layout, accessible, easy to browse, with the striclty necessary information and less-invasive pictures. 
 [Balsamiq](https://balsamiq.com/) was used to get "ideas on paper". 
 
-![Wireframe](
+![Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
 
 ### Existing Features
 
@@ -29,7 +29,7 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 
 - __About me Section__
 
-  - The About me section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture's aim is  to inspire confidence and the welcome message's aim is to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons of the footer. 
+  - The About me section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture's aim is  to inspire confidence and the welcome message's purpose is to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons in the footer section. 
 
 ![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
@@ -37,7 +37,7 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 
   - This section replies to the question most users/students will ask themselves at some point, "are these lessons right for me?". The section presents in a few effective sentences the three main features of the teaching service: "tailored", "strategical" and "flexible". 
   - Each feature is accompanied by an image in line with the side message and the webisite colours. Images are simple, easy to understand and convey a message inspired to the website goals. 
-  - Times, hours and contintions will be updated whenever necessary. 
+  - Times, hours and conditions will be updated whenever necessary. 
 
 ![Service](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/services.jpeg)
 
@@ -50,8 +50,8 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 
 - __The Footer__ 
 
-  - The footer's right section includes links to the relevant social media sites of English with Claudia and it's teacher. The links will open to a new tab to allow easy navigation for the users. 
-  - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some useful information before submitting the form. 
+  - The footer's right section includes links to the relevant social media sites of English with Claudia and the teacher. The links will open to a new tab to allow easy navigation for the users. 
+  - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some relevant information before submitting the form. 
   - The footer purpose is to invite the user to find out more about the teaching method and the teacher's bio. 
   
 ![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpeg)
@@ -59,6 +59,7 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 ### Features Left to Implement
 
 - Making the Submit button operative. 
+- Implement an efficient cache policy. 
 
 ## Testing 
 
@@ -73,23 +74,23 @@ Note: Images and submit form have been removed from small screens layout to obta
 - __Accessibility__
 
   - __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
-  - __Color Blindness:__ Colorblind Webpage Filters were taken into account on Toptal (https://www.toptal.com/designers/colorfilter/).
-  - __General Accessibility:__ has been tested on:
-     -[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com) getting a score of 93%. 
-      -Google Light House (mobile and desktop version) obtaining an Accessibility score of 100%.
-      -![Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
+  - __Color Blindness:__ Colorblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
+  - __General Accessibility:__ has been tested with satisfactory results on:
+      -[Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
+      -Google Light House (mobile and desktop version). 
+      -[Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no issues. 
 
 - __Browser Compatibility__
 The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
 
 - __SEO__
 The website has been tested on:
-  -[SEO Tester](https://www.seotesteronline.com/) getting a score of 
-Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
+  -[Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings).
+  -Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
 
-- __Overall Quality__
-The website has been tested on [Power Mapper](https://www.powermapper.com/) getting a 
-
+- __Performances__
+  -The website has been tested on [Power Mapper](https://www.powermapper.com/).
+  -Performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
 - __Bugs and Problems__
 
@@ -109,46 +110,23 @@ No unfixed bug known.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
-
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the dedicated GitHub Pages tab, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)
+__The live link can be found here - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- The text was parttially taken from [My Enlish Theacher Tom](https://www.myenglishteachertom.com/)
-- Responsivness and CSS strings were taken from  [Kevin Powell tutorials](https://www.youtube.com/watch?v=bn-DQCifeQQ)
+- The text was partially taken from [My Enlish Theacher Tom](https://www.myenglishteachertom.com/)
+- CSS backbone was taken from  [Kevin Powell tutorials](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Fonts from [Google Fonts](https://fonts.google.com/)
 
 ### Media
 
 - All the photos are from [Pexels](https://www.pexels.com/)
-
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
