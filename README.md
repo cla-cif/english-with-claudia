@@ -34,11 +34,11 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
 
 -  ### Design
 
-- __Colours__
+    - __Colours__
         -   The two main colours used are orange and white. Orange was chosen because it's an energetic and attention-grabbing colour as psychologists suggest [here](https://www.verywellmind.com/the-color-psychology-of-orange-2795818). White was chosen for an optimal contrast ratio between background and text. 
-- __Typography__
+    - __Typography__
         -   'Oswald' for headings and 'Nunito' for paragraphs and other elements, paired as suggested by Google Fonts. 
-- __Images__
+    - __Images__
         -   The images are simple and inviting. All of them have an alt text to maximise accessibility. 
 
 ## Features 
