@@ -123,6 +123,8 @@ The page was conceived with an intuitive layout, accessible, easy to browse, wit
  
 ## Testing 
 
+### General Testing 
+
 The webpage features have been tested througlhy with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
 
 - __Web Responsive__
@@ -160,36 +162,32 @@ The website has been tested on:
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to understand if the services are right for me. 
+1. As a First Time Visitor, I want to understand if the services are right for me. 
+      a. The three courses offered are immediately visible within the hero image
+      b. The user has two options, click the about me link on the navigation bar or scroll to discover more in the immediate following section "About me"
 
-        1. The three courses offered are immediately visible within the hero image
-        3. The user has two options, click the about me link on the navigation bar or scroll to discover more in the immediate following section "About me"
+2. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find information, find sufficient contrast ratio, find suitable colours,   find animations disabled. 
+    a. Colors contrast with the background and are color blindness friendly as information will still be clear regardless of the deficiency.
+    b. Fonts sizes are by default sufficiently big and therefore readable. 
+    c. All the text, labels, images are readable by Chrome Screen Reader extention. 
+    d. Animations are disabled if the users sets a "prefers-reduced-motion" option. 
 
-    2. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find information, find sufficient contrast ratio, find suitable colours,   find animations disabled. 
-
-        1. Colors contrast with the background and are color blindness friendly as information will still be clear regardless of the deficiency.
-        2. Fonts sizes are by default sufficiently big and therefore readable. 
-        3. All the text, labels, images are readable by Chrome Screen Reader extention. 
-        4. Animations are disabled if the users sets a "prefers-reduced-motion" option. 
-
-    3. As a First Time Visitor, I might want to find out more about the service on social media. 
-        1. Right after a short bio in the "About me" section, a "find out more" link lands the user to the footer section where a LinkedIn, Facebook and TikTok icons are displayed and open on a new tab. 
-        2. The user can also scroll to the bottom of the page till the footer.
+ 3. As a First Time Visitor, I might want to find out more about the service on social media. 
+    a. Right after a short bio in the "About me" section, a "find out more" link lands the user to the footer section where a LinkedIn, Facebook and TikTok icons are displayed and open on a new tab. 
+    b. The user can also scroll to the bottom of the page till the footer.
         
-     4. As a First Time Visitor, I want to get in touch with the organisation easily, quickly and effectively. 
-        1. A direct link to the Contact me section and form is found in the navigation bar. 
-        2. Once the new visitor has read the About Us can follow the "find our more" link will lands the user to the footer but the "Contact me" section will be within the same viewport height. 
-        3. The contact me form is logically placed after all the essential information are provided. It's simple, easy to find and to fill out. Size is more than adequate to allow an easy fill-out. 
+ 4. As a First Time Visitor, I want to get in touch with the organisation easily, quickly and effectively. 
+    a. A direct link to the Contact me section and form is found in the navigation bar. 
+    b. Once the new visitor has read the About Us can follow the "find our more" link will lands the user to the footer but the "Contact me" section will be within the same viewport height. 
+    c. The contact me form is logically placed after all the essential information are provided. It's simple, easy to find and to fill out. Size is more than adequate to allow an easy fill-out. 
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up-to-date. 
-
-        1. Information in the thrid from the top text-area of the "Services section" will be kept updated as well as the "about me" section and anything else susceptible to change. 
+1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up-to-date. 
+      a. Information in the thrid from the top text-area of the "Services section" will be kept updated as well as the "about me" section and anything else susceptible to change. 
     
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-   
-        1. The "Contact me" link is available in the nav bar section and takes the user to the form area in the "Contact me" section. 
+2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+      a. The "Contact me" link is available in the nav bar section and takes the user to the form area in the "Contact me" section. 
         
         
 ### Validator Testing 
