@@ -32,6 +32,8 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 [Balsamiq](https://balsamiq.com/) was used to get "ideas on paper". 
 
 [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
+[Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
+[Extra small screen Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png)
 
 -  ### Design
 
@@ -54,7 +56,7 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 
 - __Navigation Bar__
 
-  - The full responsive navigation bar is made for easy navigation across all devices. It includes links to the "About Me" section and "Contact Me" form which is the     website's core. The navigation bar is intentionally fixed to the top to avoid distraction and convey each section message in the most clear and direct way. 
+  - The navigation bar includes links to the "About Me" section and "Contact Me" form which is the website's core. The navigation bar is intentionally fixed to the top to avoid distraction and convey each section message in the most clear and direct way. 
  
 ![Nav Bar](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/nav.jpeg)
 
@@ -66,7 +68,7 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 
 - __About me Section__
 
-  - The About me section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture's aim is  to inspire confidence and the welcome message's purpose is to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons in the footer section. 
+  - The "About me" section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture was chosen to inspire confidence and the welcome message aims to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons in the footer section. 
 
 ![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
@@ -93,6 +95,12 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
   
 ![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpeg)
 
+- __Other features__ 
+    - The website has an apple-touch-icon to make the page stand out among other bookmarks with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
+    - The webiste has a Union-Jack "Favicon" to make the page easy to find among many open tabs. 
+    - The website has a "Google site verification" to verify this site's ownership as shown [here](https://search.google.com/search-console/ownership?resource_id=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
+    - The website has keywords and a suitable lenght description to give the user a brief idea of the website from the browser's results page. 
+
 ### Features Left to Implement
 
 - Making the Submit button operative. 
@@ -106,6 +114,7 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ### Frameworks, Libraries & Programs Used
 
@@ -132,13 +141,14 @@ The webpage features have been tested througlhy with the some well-known free We
 The responsive feature has been tested with Chrome DevTools and an online Web [Design checker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&width=1400&height=700). 
 The website layout has been tested on different screen sizes, from small screens 320x480 (eg: Apple iPhone 3) to wide screens 24" and their landscape view providing a good user experience. 
 The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
-Note: Images and submit form have been removed from small screens layout to obtain better readability. 
+Note: Images and submit form have been removed from small screens layout to obtain better readability and a warning message is displayed instead. 
 
 - __Accessibility__
 
   - __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
   - __Color Blindness:__ Colorblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
   - __Screen Reader:__ Text and links were read with Google Chrome extention Screen Reader (version 53.0.2784.13). 
+  - __Presbiopia:__ All the fonts are "sans serif" and with an adequate size to make 
   - __General Accessibility:__ has been tested with satisfactory results on:
       1. [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
       2. Google Light House (mobile and desktop version). 
