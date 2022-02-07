@@ -31,9 +31,9 @@ Given the educational purpose of the website, a special accent was put on access
 The page is conceived with an intuitive layout, it's accessible, easy to browse, with the striclty necessary information and less-invasive pictures. 
 [Balsamiq](https://balsamiq.com/) was used to get "ideas on paper". 
 
-[Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
-[Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
-[Extra small screen Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png)
+- [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
+- [Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
+- [Extra small screen Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png)
 
 -  ### Design
 
@@ -96,8 +96,8 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 ![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpeg)
 
 - __Other features__ 
-    - The website has an apple-touch-icon to make the page stand out among other bookmarks with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
-    - The webiste has a Union-Jack "Favicon" to make the page easy to find among many open tabs. 
+    - The website has an [apple-touch-icon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/apple-touch-icon.png) to make the page stand out among other bookmarks with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
+    - The webiste has a [Union-Jack Favicon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/favicon.ico) to make the page easy to find among many open tabs. 
     - The website has a "Google site verification" to verify this site's ownership as shown [here](https://search.google.com/search-console/ownership?resource_id=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
     - The website has keywords and a suitable lenght description to give the user a brief idea of the website from the browser's results page. 
 
