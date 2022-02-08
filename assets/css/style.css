@@ -466,14 +466,20 @@ footer.split {
   h2 {
     margin-inline: 1rem;
   }
-
+  .menu ul {
+    align-items: center;
+    flex-direction: column;
+  }
+  .menu a {
+    font-size: 1.3rem;
+  }
   img {
     display: none;
   }
 
   h1 {
     font-size: 2rem;
-    margin-bottom: 0.5em;
+    margin-bottom: 0;
   }
 
   h2 {
