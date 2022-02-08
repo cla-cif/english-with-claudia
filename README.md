@@ -6,6 +6,8 @@ English with Claudia is the landing pad website for English students. The site i
 
 Given the educational purpose of the website, a special accent was put on accessibility to welcome any student, therefore high-contrast colors, minimalistic animation and a light graphic where priviliged among other choices. 
 
+The text was tested and refined using the established [readability indices](https://www.analyzemywriting.com/readability_indices.html#:~:text=A%20readability%20index%20is%20an,the%20complexity%20of%20a%20text.) to make it easily understandable to most users. The text presenting english lessons shouldn't be difficult to read since the intedned users are, in fact, learners. 
+
 ![Landing page](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/landing-page.jpeg)
 
 
@@ -16,9 +18,10 @@ Given the educational purpose of the website, a special accent was put on access
     -   #### First Time Visitor Goals
 
         1. As a First Time Visitor, I want to understand if the services are right for me. 
-        2. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find information, read all the text by myself or with a screen reader, find non-misleading colours, find animations disabled if set so. 
-        3. As a First Time Visitor, I might want to find out more about the service on social media. 
-        4. As a First Time Visitor, I want to get in touch with the organisation easily, quickly and effectively. 
+        2. As a First Time Visitor and a learner, I want the text to be easily decipherable, short and written using a rather casual register. 
+        3. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find information, read all the text by myself or with a screen reader, find non-misleading colours, find animations disabled if set so. 
+        4. As a First Time Visitor, I might want to find out more about the service on social media. 
+        5. As a First Time Visitor, I want to get in touch with the organisation easily, quickly and effectively. 
         
     -   #### Returning Visitor Goals
 
@@ -148,7 +151,8 @@ Note: Images and submit form have been removed from small screens layout to obta
   - __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
   - __Color Blindness:__ Colorblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
   - __Screen Reader:__ Text and links were read with Google Chrome extention Screen Reader (version 53.0.2784.13). 
-  - __Presbiopia:__ All the fonts are "sans serif" and with an adequate size to make 
+  - __Presbiopia:__ All the fonts are "sans serif" and with an adequate size to make the text easy to read without glasses. 
+  - __Readability:__ Since the main audience is English learners, the text was rated easy to understand as tested with [WebFX](https://cla-cif.github.io/english-with-claudia/)
   - __General Accessibility:__ has been tested with satisfactory results on:
       1. [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
       2. Google Light House (mobile and desktop version). 
