@@ -170,14 +170,14 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
 ### Bugs and problems
 
 - __Known problems__
-      - Images in .jpeg format present an optimal compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size while ensuring minimal quality loss. However, low scores on Largest Contentful Paint (LCP) side were still achieved.
-      - 
+    - Images in .jpeg format present an optimal compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size while ensuring minimal quality loss. However, low scores on Largest Contentful Paint (LCP) side were still achieved.
+      
 - __Fixed bugs__
-       - WebP format images are partially or not supported on some browser's older versions as shown by [Can I use](https://caniuse.com/webp). In order to preserve information and maximase compatibility, .jpeg format was chosen instead despite WebP performs better as shown by [Google Developers](https://developers.google.com/speed/webp/faq#:~:text=WebP%20typically%20achieves%20an%20average,help%20make%20the%20web%20faster.). 
+    - WebP format images are partially or not supported on some browser's older versions as shown by [Can I use](https://caniuse.com/webp). In order to preserve information and maximase compatibility, .jpeg format was chosen instead despite WebP performs better as shown by [Google Developers](https://developers.google.com/speed/webp/faq#:~:text=WebP%20typically%20achieves%20an%20average,help%20make%20the%20web%20faster.). 
 
 - __Unfixed Bugs__
     - There is a loss of information in the header section when the page is displayed on IE 11 running on Win 10 because the header will not be displayed correctly:
-CSS property 'display: flex' is not supported by IE11. 
+CSS property 'display: flex' is not fully supported by IE11. Details are shown [here](https://caniuse.com/?search=display%20flex). 
 
 ### Testing User Stories from User Experience (UX) Section
 
