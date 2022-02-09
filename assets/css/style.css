@@ -342,7 +342,7 @@ input.join-button {
   background: var(--color-item);
   border-radius: var(--rad-default);
   border-style: none;
-  color: var(--color-light);
+  color: var(--color-dark);
   cursor: pointer;
   display: list-item;
   filter: drop-shadow(0 0 0.2rem var(--color-shadow));
