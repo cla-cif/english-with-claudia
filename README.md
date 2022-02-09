@@ -175,7 +175,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
 - __Fixed bugs__
     - WebP format images are partially or not supported on some browser's older versions as shown by [Can I use](https://caniuse.com/webp). In order to preserve information and maximase compatibility, .jpeg format was chosen instead despite WebP performs better as shown by [Google Developers](https://developers.google.com/speed/webp/faq#:~:text=WebP%20typically%20achieves%20an%20average,help%20make%20the%20web%20faster.). 
 
-- __Unfixed Bugs__
+- __Unfixed bugs__
     - There is a loss of information in the header section when the page is displayed on IE 11 running on Win 10 because the header will not be displayed correctly:
 CSS property 'display: flex' is not fully supported by IE11. Details are shown [here](https://caniuse.com/?search=display%20flex). 
 
@@ -183,7 +183,7 @@ CSS property 'display: flex' is not fully supported by IE11. Details are shown [
 
  #### First Time Visitor Goals
 
- 1. As a First-time visitor, I want to understand if the services are suitable for me. 
+- As a First-time visitor, I want to understand if the services are suitable for me. 
     - The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
     - The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
