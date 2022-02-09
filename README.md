@@ -120,17 +120,17 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
 
 ### Frameworks, Libraries & Programs Used
 
-1. [Google Fonts:](https://fonts.google.com/)
+- [Google Fonts:](https://fonts.google.com/)
     - Google Fonts were used to import the 'Oswald' and 'Nunito' font into the HTML page. 
-1. [Font Awesome:](https://fontawesome.com/)
+- [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used for the social media links in the footer section.
-1. [Gitpod](https://www.gitpod.io/)
+- [Gitpod](https://www.gitpod.io/)
     - Gitpod Dashboard was used to write the code and its terminal to 'commit' to Git and 'push' to GitHub.
-1. [GitHub:](https://github.com/)
+- [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [JPEGMiniPRo](https://www.jpegmini.com/creators)
+- [JPEGMiniPRo](https://www.jpegmini.com/creators)
     - JPEG Mini Pro was used to compress the image and ensure minimal quality loss.
-1. [Balsamiq:](https://balsamiq.com/)
+- [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png) before the deployment process began.
  
 ## Testing 
