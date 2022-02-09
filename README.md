@@ -1,6 +1,6 @@
 <h1 align="center">English with Claudia</h1>
 
-__[Follow this link to the website](https://cla-cif.github.io/english-with-claudia/)__
+__You can find the live link here: - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
 
 English with Claudia is the landing pad website for English learners. The website is aimed at learners of all ages and levels who want to improve or maintain their language skills thanks to the tailor-made and flexible teaching method of teacher Claudia. English with Claudia is a clear and easy-to-navigate website: The aim is to arouse curiosity and lead the student effortlessly to the "Contact me" form.
 
@@ -231,7 +231,7 @@ CSS property 'display: flex' is not fully supported by IE11. Details are shown [
   - On the GitHub Pages tab, select the main branch.
   - Once the main branch is selected, the page will automatically refresh with a detailed ribbon display to indicate successful deployment.
 
-__You can find the live link here - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
+__You can find the live link here: - [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
 
 
 ## Credits 
