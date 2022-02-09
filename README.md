@@ -167,8 +167,15 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
   - The website was been tested on [Power Mapper](https://www.powermapper.com/).
   - The general performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
-- __Bugs and problems__
-  - Images present the best compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size while ensuring minimal quality loss. However, low scores on Largest Contentful Paint (LCP) side were achieved.
+- __Known problems__
+      - Images in .jpeg format present an optimal compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size while ensuring minimal quality loss. However, low scores on Largest Contentful Paint (LCP) side were still achieved.
+      
+- __Fixed bugs__
+       - WebP format images are partially or not supported on some browser's older versions as shown by [Can I use](https://caniuse.com/webp). In order to preserve information and maximase compatibility, .jpeg format was chosen instead despite WebP performs better as shown by [Google Developers](https://developers.google.com/speed/webp/faq#:~:text=WebP%20typically%20achieves%20an%20average,help%20make%20the%20web%20faster.). 
+
+- __Unfixed Bugs__
+    - There is a loss of information in the header section when the page is displayed on IE 11 running on Win 10 because the header will not be displayed correctly:
+CSS property 'display: flex' is not supported by IE11. 
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -214,10 +221,6 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
   - No errors were returned when running the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F)
 - CSS
   - No errors were found when running the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-
-### Unfixed Bugs
-There is a loss of information in the header section when the page is displayed on IE 11 running on Win 10 because the header will not be displayed correctly:
-CSS property 'display: flex' is not supported by IE11. 
 
 ## Deployment
 
