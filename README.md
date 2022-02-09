@@ -150,7 +150,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
   - __Colour blindness:__ Colour-blind webpage filters have been taken into account with [Toptal](https://www.toptal.com/designers/colorfilter/).
   - __Screen Reader:__ Texts, links and images' 'alt text' were read with the Google Chrome extension Screen Reader (version 53.0.2784.13). 
   - __Presbiopia:__ All fonts are 'sans serif' and have a sufficient size so that the text can be easily read without glasses.
-  - __Readability:__ As the main target audience is English language learners, the text was rated 'easy to understand', as tested with [WebFX](https://www.webfx.com/tools/read-able/check.php?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&tab=Test+By+Url&imahuman=16749697)
+  - __Readability:__ As the main target audience is English language learners, the text was rated 'easy to understand', as tested with [WebFX](https://www.webfx.com/tools/read-able/check.php?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&tab=Test+By+Url&imahuman=16749697).
   - __General Accessibility:__ has been tested with satisfactory results on:
       1. Google Light House (mobile and desktop version). 
       2. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
@@ -220,9 +220,9 @@ CSS property 'display: flex' is not fully supported by IE11. Details are shown [
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when running the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F)
+  - No errors were returned when running the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
 - CSS
-  - No errors were found when running the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - No errors were found when running the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en).
 
 ## Deployment
 
@@ -242,11 +242,11 @@ __You can find the live link here: - [English with Claudia](https://cla-cif.gith
 
 ### Content 
 
-- The text was partly taken from [My English Teacher Tom.](https://www.myenglishteachertom.com/)
-- CSS backbone was taken from  [Kevin Powell's tutorials.](https://www.youtube.com/watch?v=bn-DQCifeQQ)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- Fonts from [Google Fonts](https://fonts.google.com/)
+- The text was partly taken from [My English Teacher Tom](https://www.myenglishteachertom.com/).
+- CSS backbone was taken from  [Kevin Powell's tutorials](https://www.youtube.com/watch?v=bn-DQCifeQQ).
+- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/).
+- Fonts from [Google Fonts](https://fonts.google.com/).
 
 ### Media
 
-- All the photos from [Pexels](https://www.pexels.com/)
+- All the photos from [Pexels](https://www.pexels.com/).
