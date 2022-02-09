@@ -34,9 +34,9 @@ The text was tested against common [readability indices](https://www.analyzemywr
 The site is designed with an intuitive layout, it is accessible, easy to browse, with the absolutely necessary information and less invasive images.
 [Balsamiq](https://balsamiq.com/) was used to put "ideas on paper". 
 
-    - [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
-    - [Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
-    - [Extra small screen Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png)
+   - [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
+   - [Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
+   - [Extra small screen Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png)
 
 -  ### Design
 
@@ -175,7 +175,7 @@ The website was been tested on:
 
 - #### First Time Visitor Goals
 
- 1. As a First-time visitor, I want to understand if the services are suitable for me. 
+    1. As a First-time visitor, I want to understand if the services are suitable for me. 
     - The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
     - The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
