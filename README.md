@@ -92,28 +92,28 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
 
 - __The Footer__ 
 
-  - The right section of the footer contains links to the relevant social media pages of English with Claudia and the teacher. The links open in a new tab to allow users to navigate easily.
-  - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some relevant information before submitting the form. 
-  - The footer purpose is to invite the user to find out more about the teaching method and the teacher's bio. 
+  - The right section of the footer contains links to the corresponding social media pages of English with Claudia and the teacher. The links open in a new tab to allow users to navigate easily.
+  -The left area of the footer contains links to the "About" and "Top of page" pages, which are anchored in the header. This area is intentionally located directly below the "Submit" button in case the user wants to return to the relevant information before submitting the form.
+  - The footer serves to invite the user to learn more about the teaching method and the teacher's biography.
   
 ![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpeg)
 
 - __Other features__ 
-    - The website has an [apple-touch-icon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/apple-touch-icon.png) to make the page stand out among other bookmarks with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
-    - The website has a [Union-Jack Favicon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/favicon.ico) to make the page easy to find among many open tabs. 
-    - The website has a "Google site verification" to verify this site's ownership as shown [here](https://search.google.com/search-console/ownership?resource_id=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
-    - The website has keywords and a suitable length description to give the user a brief idea of the website from the browser's results page. 
+    - The website has an [apple-touch-icon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/apple-touch-icon.png) to make the page stand out from other bookmarks, with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
+    - The website has a [Union Jack Favicon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/favicon.ico) to make the page easy to find among the many open tabs. 
+    - The website has a "Google site verification" to verify the website's ownership as shown [here](https://search.google.com/search-console/ownership?resource_id=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
+    - The site has keywords and a description of appropriate length to give the user a brief impression of the site on the browser results page.
 
 ### Features Left to Implement
 
-- Making the Submit button operative. 
+- Make the Submit button functional. 
 - Implement an efficient cache policy. 
 - Add privacy policy. 
 - Get the website a domain name. 
 
-## Technologies Used
+## Technologies used
 
-### Languages Used
+### Languages used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -122,52 +122,52 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
 ### Frameworks, Libraries & Programs Used
 
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts were used to import the 'Oswald' and 'Nunito' font into the HTML page. 
+    - Google Fonts were used to import the 'Oswald' and 'Nunito' font into the HTML page. 
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used for the social media links in the footer section.
 1. [Gitpod](https://www.gitpod.io/)
-    - Gitpod Dashboard was use to write the code and its terminal to commit to Git and Push to GitHub.
+    - Gitpod Dashboard was used to write the code and its terminal to 'commit' to Git and 'push' to GitHub.
 1. [GitHub:](https://github.com/)
     - GitHub is used to store the projects code after being pushed from Git.
 1. [JPEGMiniPRo](https://www.jpegmini.com/creators)
-    - JPEG Mini Pro was used to compress the image size assuring minimal quality loss.
+    - JPEG Mini Pro was used to compress the image and ensure minimal quality loss.
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png) before starting the deployment process. 
+    - Balsamiq was used to create the [wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png) before the deployment process began.
  
 ## Testing 
 
 ### General Testing 
 
-The webpage features have been tested thoroughly  with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
+The website's features were thoroughly tested using some well-known free web testers. Particular attention was paid to SEO and accessibility as the website offers educational resources.
 
 - __Web Responsive__
-The responsive feature has been tested with Chrome DevTools and an online Web [Design checker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&width=1400&height=700). 
-The website layout has been tested on different screen sizes, from small screens 320x480 (eg: Apple iPhone 3) to wide screens 24" and their landscape view providing a good user experience. 
-The website passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
-Note: Images and submit form have been removed from small screens layout to obtain better readability and a warning message is displayed instead. 
+The responsive feature has been tested using Chrome DevTools and an online Web [Design checker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&width=1400&height=700). 
+The website's layout has been tested on a range of different screen sizes, from small 320x480 screens (e.g. Apple iPhone 3) to widescreen 24" and their landscape view providing a good user experience. 
+The website has passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
+Note: Images and the submit form have been removed from the small screen layout for better readability and a warning message is displayed instead.
 
 - __Accessibility__
 
-  - __Colours:__ All colours checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
-  - __Colour Blindness:__ Colourblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
-  - __Screen Reader:__ Text and links were read with Google Chrome extension Screen Reader (version 53.0.2784.13). 
-  - __Presbiopia:__ All the fonts are "sans serif" and with an adequate size to make the text easy to read without glasses. 
-  - __Readability:__ Since the main audience is English learners, the text was rated easy to understand as tested with [WebFX](https://www.webfx.com/tools/read-able/check.php?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&tab=Test+By+Url&imahuman=16749697)
+  - __Colours:__ All colours checked with [WebAim](https://webaim.org/resources/contrastchecker/) have an optimal contrast ratio. 
+  - __Colour blindness:__ Colour-blind webpage filters have been taken into account with [Toptal](https://www.toptal.com/designers/colorfilter/).
+  - __Screen Reader:__ Texts, links and images' 'alt text' were read with the Google Chrome extension Screen Reader (version 53.0.2784.13). 
+  - __Presbiopia:__ All fonts are 'sans serif' and have a sufficient size so that the text can be easily read without glasses.
+  - __Readability:__ As the main target audience is English language learners, the text was rated 'easy to understand', as tested with [WebFX](https://www.webfx.com/tools/read-able/check.php?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&tab=Test+By+Url&imahuman=16749697)
   - __General Accessibility:__ has been tested with satisfactory results on:
       1. [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
       2. Google Light House (mobile and desktop version). 
-      3. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) presenting no critical issues. 
+      3. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
 
 - __Browser Compatibility__
-The website has been tested on [Power Mapper](https://www.powermapper.com/) presenting no critical issues. Some layout issues emerged on IE ≤11. Other minor issues appeard across browsers are non impeding. 
+The website was tested with [Power Mapper](https://www.powermapper.com/) and no critical problems were found. Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
 
 - __SEO__
-The website has been tested on:
+The website was been tested on:
   - [Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings).
   - Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
 
 - __Performances__
-  - The website has been tested on [Power Mapper](https://www.powermapper.com/).
+  - The website was been tested on [Power Mapper](https://www.powermapper.com/).
   - Performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
 - __Bugs and Problems__
