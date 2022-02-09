@@ -96,7 +96,7 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
   -The left area of the footer contains links to the "About" and "Top of page" pages, which are anchored in the header. This area is intentionally located directly below the "Submit" button in case the user wants to return to the relevant information before submitting the form.
   - The footer serves to invite the user to learn more about the teaching method and the teacher's biography.
   
-![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpeg)
+![Footer](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/footer.jpg)
 
 - __Other features__ 
     - The website has an [apple-touch-icon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/apple-touch-icon.png) to make the page stand out from other bookmarks, with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
