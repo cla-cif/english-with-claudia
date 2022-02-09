@@ -146,6 +146,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
 - __Accessibility__
 
   - __Colours:__ All colours checked with [WebAim](https://webaim.org/resources/contrastchecker/) have an optimal contrast ratio. 
+  - __Reduced motion:__ All animations are disabled when "Show animation in Windows" is disabled from settings in Win10. 
   - __Colour blindness:__ Colour-blind webpage filters have been taken into account with [Toptal](https://www.toptal.com/designers/colorfilter/).
   - __Screen Reader:__ Texts, links and images' 'alt text' were read with the Google Chrome extension Screen Reader (version 53.0.2784.13). 
   - __Presbiopia:__ All fonts are 'sans serif' and have a sufficient size so that the text can be easily read without glasses.
