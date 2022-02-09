@@ -51,7 +51,7 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
 -   Accessible for users with hearing and visual impairments
 -   Interactive elements
 
-![Screenshot from Am I Responsive webpage](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
+![Screenshot from Am I Responsive webpage](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpg)
 
 ### Existing Features
 
