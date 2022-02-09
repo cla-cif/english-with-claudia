@@ -174,43 +174,42 @@ The website was been tested on:
 
 ### Testing User Stories from User Experience (UX) Section
 
--   #### First Time Visitor Goals
+  #### First Time Visitor Goals
 
-    1. As a First-time visitor, I want to understand if the services are suitable for me. 
+1. As a First-time visitor, I want to understand if the services are suitable for me. 
         a. The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
         b. The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
-    2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
+2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
          a. The texts were carefully edited using text analysis tools and text editors to make them as easy to read as possible. Inexperienced language users may find long sentences and academic vocabulary challenging to understand and frustrating. 
          b. Texts have been intentionally kept short to avoid information overload. More information can be obtained via social media and by contacting the teacher.
 
-     3. As a First-time first-time visitor with an impairment, I want to be able to navigate the website easily to find information, read all the text by myself or with a screen reader, find colours that are not misleading, and find animations disabled if so set.
+ 3. As a First-time first-time visitor with an impairment, I want to be able to navigate the website easily to find information, read all the text by myself or with a screen reader, find colours that are not misleading, and find animations disabled if so set.
          a. Colours contrast with the background and are colour blindness friendly as information is still clear regardless of visual impairment.
          b. Font sizes are sufficiently large by default and therefore easy to read.
          c. All text, labels and images are readable with the Chrome Screen Reader extension.
          d. Animations are disabled when the user sets the "prefer reduced motion" option.
         
-    4. As a First-time visitor, I may want to learn more about the service on social media.
+ 4. As a First-time visitor, I may want to learn more about the service on social media.
           a. Right after a short bio in the "About me" section, a "find out more" link lands the user to the footer section where a LinkedIn, Facebook and TikTok icons are displayed and open on a new tab. 
           b. The user can also scroll to the bottom of the page till the footer.
         
-    5. As a First-time visitor, I want to engage with the organisation easily, quickly and effectively.
+ 5. As a First-time visitor, I want to engage with the organisation easily, quickly and effectively.
           a. There is a direct link in the navigation bar to the "Contact me" section and the relevant form.
           b. Right after the teacher's short bio, the user can follow the "find out more" link which lands to the footer. The "Contact me" section will be within the same viewport height.
           c. The contact me form is logically placed after all the important information has been provided. It is simple, easy to find and fill out. The size is more than sufficient to allow easy completion.
 
--   #### Returning Visitor Goals
+#### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up to date. 
+1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up to date. 
           a. The information in the third text area from the top in the "Services" section is constantly updated, as is the "About Me" section and anything else that might change.
     
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+ 2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
            a. The "Contact me" link is available in the navigation bar and takes the user to the forms section in the "Contact me" section.
           
-    3. As a Returning impaired visitor, I want to find the same as before or even or better accessibility. 
+3. As a Returning impaired visitor, I want to find the same as before or even or better accessibility. 
            a. Accessibility remains a top priority for developers.
-        
-        
+              
 ### Validator Testing 
 
 - HTML
