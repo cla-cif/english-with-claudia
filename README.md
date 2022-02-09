@@ -167,9 +167,11 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
   - The website was been tested on [Power Mapper](https://www.powermapper.com/).
   - The general performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
+### Bugs and problems
+
 - __Known problems__
       - Images in .jpeg format present an optimal compromise between quality and size. [JPEGMiniPRo](https://www.jpegmini.com/creators) was used to reduce the image size while ensuring minimal quality loss. However, low scores on Largest Contentful Paint (LCP) side were still achieved.
-      
+      - 
 - __Fixed bugs__
        - WebP format images are partially or not supported on some browser's older versions as shown by [Can I use](https://caniuse.com/webp). In order to preserve information and maximase compatibility, .jpeg format was chosen instead despite WebP performs better as shown by [Google Developers](https://developers.google.com/speed/webp/faq#:~:text=WebP%20typically%20achieves%20an%20average,help%20make%20the%20web%20faster.). 
 
