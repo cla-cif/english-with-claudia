@@ -34,9 +34,7 @@ The text was tested against common [readability indices](https://www.analyzemywr
 The site is designed with an intuitive layout, it is accessible, easy to browse, with the absolutely necessary information and less invasive images.
 [Balsamiq](https://balsamiq.com/) was used to put "ideas on paper". 
 
-   - [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
-   - [Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
-   - [Extra small screen Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png)
+Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)    [Mobile](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)   [Extra small screen](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png).
 
 -  ### Design
 
@@ -173,10 +171,10 @@ The website was been tested on:
 
 ### Testing User Stories from User Experience (UX) Section
 
-- #### First Time Visitor Goals
+ #### First Time Visitor Goals
 
  1. As a First-time visitor, I want to understand if the services are suitable for me. 
-    -   The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
+    - The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
     - The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
  2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
@@ -198,7 +196,7 @@ The website was been tested on:
      - Right after the teacher's short bio, the user can follow the "find out more" link which lands to the footer. The "Contact me" section will be within the same viewport height.
      - The contact me form is logically placed after all the important information has been provided. It is simple, easy to find and fill out. The size is more than sufficient to allow easy completion.
 
-- #### Returning Visitor Goals
+ #### Returning Visitor Goals
 
  1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up to date. 
      - The information in the third text area from the top in the "Services" section is constantly updated, as is the "About Me" section and anything else that might change.
