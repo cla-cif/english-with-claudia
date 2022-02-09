@@ -174,15 +174,15 @@ The website was been tested on:
 
 ### Testing User Stories from User Experience (UX) Section
 
-  #### First Time Visitor Goals
+#### First Time Visitor Goals
 
 1. As a First-time visitor, I want to understand if the services are suitable for me. 
-        a. The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
-        b. The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
+    a. The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
+    b. The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
 2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
-         a. The texts were carefully edited using text analysis tools and text editors to make them as easy to read as possible. Inexperienced language users may find long sentences and academic vocabulary challenging to understand and frustrating. 
-         b. Texts have been intentionally kept short to avoid information overload. More information can be obtained via social media and by contacting the teacher.
+    a. The texts were carefully edited using text analysis tools and text editors to make them as easy to read as possible. Inexperienced language users may find long sentences and academic vocabulary challenging to understand and frustrating. 
+    b. Texts have been intentionally kept short to avoid information overload. More information can be obtained via social media and by contacting the teacher.
 
  3. As a First-time first-time visitor with an impairment, I want to be able to navigate the website easily to find information, read all the text by myself or with a screen reader, find colours that are not misleading, and find animations disabled if so set.
          a. Colours contrast with the background and are colour blindness friendly as information is still clear regardless of visual impairment.
