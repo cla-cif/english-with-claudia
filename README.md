@@ -153,9 +153,8 @@ Note: Images and the submit form have been removed from the small screen layout 
   - __Presbiopia:__ All fonts are 'sans serif' and have a sufficient size so that the text can be easily read without glasses.
   - __Readability:__ As the main target audience is English language learners, the text was rated 'easy to understand', as tested with [WebFX](https://www.webfx.com/tools/read-able/check.php?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&tab=Test+By+Url&imahuman=16749697)
   - __General Accessibility:__ has been tested with satisfactory results on:
-      1. [Site Improve](https://siteimprove.com/en/accessibility/result/?website=https://cla-cif.github.io/english-with-claudia/&email=claudia.cifaldi@gmail.com).
-      2. Google Light House (mobile and desktop version). 
-      3. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
+      1. Google Light House (mobile and desktop version). 
+      2. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
 
 - __Browser Compatibility__
 The website was tested with [Power Mapper](https://www.powermapper.com/) and no critical problems were found. Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
