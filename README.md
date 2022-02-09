@@ -102,7 +102,7 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
     - The website has a "Google site verification" to verify the website's ownership as shown [here](https://search.google.com/search-console/ownership?resource_id=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
     - The site has keywords and a description of appropriate length to give the user a brief impression of the site on the browser results page.
 
-### Features Left to Implement
+### Features to implement
 
 - Make the Submit button functional. 
 - Implement an efficient cache policy. 
