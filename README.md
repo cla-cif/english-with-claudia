@@ -57,7 +57,7 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
 
 - __Navigation bar__
 
-  - The navigation bar contains links to the 'About Me' section and the 'Contact Me" form, the core of the website. The navigation bar is intentionally fixed to the top to avoid distractions and to convey the message of each section as clearly and directly as possible.
+  - The navigation bar contains links to the 'About me' section and the 'Contact me" form, the core of the website. The navigation bar is intentionally fixed to the top to avoid distractions and to convey the message of each section as clearly and directly as possible.
  
 ![Nav Bar](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/nav.jpeg)
 
@@ -67,13 +67,13 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
 
 ![Hero](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/hero.jpeg)
 
-- __'About me' section__
+- __About me section__
 
-  - The 'About me' section includes a picture of the teacher, a welcome message and a brief description of the teacher's professional experience and goals. The picture was chosen to inspire confidence and the welcome message is intended to reassure the user and encourage them to read on. The biography has been deliberately kept short so that it does not become boring. At the end of the bio, there is a prompt to learn more and a link to the social media buttons in the footer.
+  - The 'About me' section includes a picture of the teacher, a welcome message and a brief description of the teacher's professional experience and goals. The picture was chosen to inspire confidence and the welcome message is intended to reassure the users and encourage them to read on. The biography has been deliberately kept short so that it does not become boring. At the end of the bio, there is a prompt to learn more and a link to the social media buttons in the footer.
 
 ![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
-- __'Services' section__
+- __Services' section__
 
   - This section answers the question that most users/students will ask at some point: "are these lessons right for me?". The section introduces in a few concise sentences the three main features of the teaching service: "tailored", "strategic" and "flexible".
   - Each feature is accompanied by an image that matches the page message and website colours. The images are simple, easy to understand and convey a message that is aligned with the website's objectives.
@@ -81,7 +81,7 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
   
 ![Service](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/services.jpeg)
 
-- __'Contact me' section__ 
+- __Contact me section__ 
 
   - The 'Contact me' section is intuitive with the promise of a response within 24 hours. The form is on the right hand side to facilitate the natural eye movement of western readers from left to right.
   - The form's field are mandatory to fill in and an alert warns the user if some fields are left blank before submission.
@@ -185,7 +185,7 @@ CSS property 'display: flex' is not fully supported by IE11. Details are shown [
 
 - As a First-time visitor, I want to understand if the services are suitable for me. 
     - The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
-    - The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
+    - The user has two options: Click on the "About me" link in the navigation bar or scroll to learn more in the "About me" section immediately following.
           
 - As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
     - The texts were carefully edited using text analysis tools and text editors to make them as easy to read as possible. Inexperienced language users may find long sentences and academic vocabulary challenging to understand and frustrating. 
@@ -209,7 +209,7 @@ CSS property 'display: flex' is not fully supported by IE11. Details are shown [
  #### __Returning Visitor Goals__
 
 - As a Returning Visitor, I want to find information, prices, conditions and timetables always up to date. 
-     - The information in the third text area from the top in the "Services" section is constantly updated, as is the "About Me" section and anything else that might change.
+     - The information in the third text area from the top in the "Services" section is constantly updated, as is the "About me" section and anything else that might change.
     
 - As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
      - The "Contact me" link is available in the navigation bar and takes the user to the forms section in the "Contact me" section.
