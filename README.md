@@ -159,9 +159,8 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
     - Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
 
 - __SEO__
-The website was been tested on:
-  - [Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings).
-  - Google Light House (mobile and desktop version) obtaining a SEO score of 100%.
+  - The website was been tested on [Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings).
+  - Tests ran on Google Light House (mobile and desktop version) obtained a SEO score of 100%.
 
 - __Performances__
   - The website was been tested on [Power Mapper](https://www.powermapper.com/).
