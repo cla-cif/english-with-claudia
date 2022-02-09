@@ -69,13 +69,13 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
 
 ![Hero](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/hero.jpeg)
 
-- __About me section__
+- __'About me' section__
 
-  - The 'About Me' section includes a picture of the teacher, a welcome message and a brief description of the teacher's professional experience and goals. The picture was chosen to inspire confidence and the welcome message is intended to reassure the user and encourage them to read on. The biography has been deliberately kept short so that it does not become boring. At the end of the bio, there is a prompt to learn more and a link to the social media buttons in the footer.
+  - The 'About me' section includes a picture of the teacher, a welcome message and a brief description of the teacher's professional experience and goals. The picture was chosen to inspire confidence and the welcome message is intended to reassure the user and encourage them to read on. The biography has been deliberately kept short so that it does not become boring. At the end of the bio, there is a prompt to learn more and a link to the social media buttons in the footer.
 
 ![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
-- __Services section__
+- __'Services' section__
 
   - This section answers the question that most users/students will ask at some point: "are these lessons right for me?". The section introduces in a few concise sentences the three main features of the teaching service: "tailored", "strategic" and "flexible".
   - Each feature is accompanied by an image that matches the page message and website colours. The images are simple, easy to understand and convey a message that is aligned with the website's objectives.
@@ -83,9 +83,9 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
   
 ![Service](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/services.jpeg)
 
-- __Contact me section__ 
+- __'Contact me' section__ 
 
-  - The contact section is intuitive with the promise of a response within 24 hours. The form is on the right hand side to facilitate the natural eye movement of western readers from left to right.
+  - The 'Contact me' section is intuitive with the promise of a response within 24 hours. The form is on the right hand side to facilitate the natural eye movement of western readers from left to right.
   - The form's field are mandatory to fill in and an alert warns the user if some fields are left blank before submission.
 
 ![Contact me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/form.jpeg)
@@ -117,7 +117,6 @@ The site is designed with an intuitive layout, it is accessible, easy to browse,
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
--   [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ### Frameworks, Libraries & Programs Used
 
