@@ -174,11 +174,11 @@ The website was been tested on:
 
 ### Testing User Stories from User Experience (UX) Section
 
-#### First Time Visitor Goals
+    #### First Time Visitor Goals
 
 1. As a First-time visitor, I want to understand if the services are suitable for me. 
-    a. The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
-    b. The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
+    - The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
+    - The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
 2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
     a. The texts were carefully edited using text analysis tools and text editors to make them as easy to read as possible. Inexperienced language users may find long sentences and academic vocabulary challenging to understand and frustrating. 
@@ -199,7 +199,7 @@ The website was been tested on:
           b. Right after the teacher's short bio, the user can follow the "find out more" link which lands to the footer. The "Contact me" section will be within the same viewport height.
           c. The contact me form is logically placed after all the important information has been provided. It is simple, easy to find and fill out. The size is more than sufficient to allow easy completion.
 
-#### Returning Visitor Goals
+    #### Returning Visitor Goals
 
 1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up to date. 
           a. The information in the third text area from the top in the "Services" section is constantly updated, as is the "About Me" section and anything else that might change.
