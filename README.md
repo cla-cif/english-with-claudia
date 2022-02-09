@@ -2,11 +2,11 @@
 
 __[Follow this link to the website](https://cla-cif.github.io/english-with-claudia/)__
 
-English with Claudia is the landing pad website for English students. The site is targeted toward learners of all ages and levels who aim to stay fluent or improve their language skills thanks to a tailored and flexible teaching method provided by the teacher Claudia. English with Claudia is straighforward and easy to browse website: the aim is to stimulate curiosity and get the student to the "Contact me" form effortlessly. 
+English with Claudia is the landing pad website for English learners. The website is aimed at learners of all ages and levels who want to improve or maintain their language skills thanks to the tailor-made and flexible teaching method of teacher Claudia. English with Claudia is a clear and easy-to-navigate website: The aim is to arouse curiosity and lead the student effortlessly to the "Contact me" form.
 
-Given the educational purpose of the website, a special accent was put on accessibility to welcome any student, therefore high-contrast colors, minimalistic animation and a light graphic where priviliged among other choices. 
+Considering the educational purpose of the website, special attention was paid to accessibility in order to welcome every student. Therefore, high-contrast colours, minimalist animations and light graphics, among others, were preferred.
 
-The text was tested and refined using the established [readability indices](https://www.analyzemywriting.com/readability_indices.html#:~:text=A%20readability%20index%20is%20an,the%20complexity%20of%20a%20text.) to make it easily understandable to most users. The text presenting english lessons shouldn't be difficult to read since the intedned users are, in fact, learners. 
+The text was tested against common [readability indices](https://www.analyzemywriting.com/readability_indices.html#:~:text=A%20readability%20index%20is%20an,the%20complexity%20of%20a%20text.) and refined to be easily understood by most users. The text presenting the English lessons should not be difficult to read, as the intended users are indeed learners.
 
 ![Landing page](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/landing-page.jpeg)
 
@@ -15,24 +15,24 @@ The text was tested and refined using the established [readability indices](http
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+    -   #### First-time Visitor Goals
 
-        1. As a First Time Visitor, I want to understand if the services are right for me. 
-        2. As a First Time Visitor and a learner, I want the text to be easily decipherable, short and written using a rather casual register. 
-        3. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find information, read all the text by myself or with a screen reader, find non-misleading colours, find animations disabled if set so. 
-        4. As a First Time Visitor, I might want to find out more about the service on social media. 
-        5. As a First Time Visitor, I want to get in touch with the organisation easily, quickly and effectively. 
+        1. As a First-time visitor, I want to understand if the services are suitable for me. 
+        2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
+        3. As a First-time first-time visitor with an impairment, I want to be able to navigate the website easily to find information, read all the text by myself or with a screen reader, find colours that are not misleading, and find animations disabled if so set.
+        4. As a First-time visitor, I may want to learn more about the service on social media.
+        5. As a First-time visitor, I want to engage with the organisation easily, quickly and effectively.
         
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up-to-date. 
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning impaired visitor, I want to find the same as before or even or better accessibility. 
+        1. As a returning visitor, I would like to find information, prices, conditions and timetables that are always up to date.
+        2. As a returning visitor, I want to find the best way to contact the organisation when I have questions.
+        3. As a returning visitor with a disability, I want to find the same or even better accessibility than before.
         
 -   ### Wireframes
 
-The page is conceived with an intuitive layout, it's accessible, easy to browse, with the striclty necessary information and less-invasive pictures. 
-[Balsamiq](https://balsamiq.com/) was used to get "ideas on paper". 
+The site is designed with an intuitive layout, it is accessible, easy to browse, with the absolutely necessary information and less invasive images.
+[Balsamiq](https://balsamiq.com/) was used to put "ideas on paper". 
 
 - [Main page Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)
 - [Mobile version Wireframe](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)
@@ -41,58 +41,58 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 -  ### Design
 
     - __Colours__
-        -   The two main colours used are orange and white. Orange was chosen because it's an energetic and attention-grabbing colour as psychologists suggest [here](https://www.verywellmind.com/the-color-psychology-of-orange-2795818). White was chosen for an optimal contrast ratio between background and text. 
+        -   The two main colours used are orange and white. Orange was chosen because is an energetic and attention-grabbing colour, as psychologists recommend [here](https://www.verywellmind.com/the-color-psychology-of-orange-2795818). White was chosen for an optimal contrast ratio between background and text. 
     - __Typography__
         -   'Oswald' for headings and 'Nunito' for paragraphs and other elements, paired as suggested by Google Fonts. 
     - __Images__
-        -   The images are simple and inviting. All of them have an alt text to maximise accessibility. 
+        -   The images are simple and inviting. All images have alt text to maximise accessibility.
 
 ## Features 
 
 -   Responsive on all device sizes
--   Accessible to users with hearing and visual impairments
+-   Accessible for users with hearing and visual impairments
 -   Interactive elements
 
 ![Screenshot from Am I Responsive webpage](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/responsive.jpeg)
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Navigation bar__
 
-  - The navigation bar includes links to the "About Me" section and "Contact Me" form which is the website's core. The navigation bar is intentionally fixed to the top to avoid distraction and convey each section message in the most clear and direct way. 
+  - The navigation bar contains links to the 'About Me' section and the 'Contact Me" form, the core of the website. The navigation bar is intentionally fixed to the top to avoid distractions and to convey the message of each section as clearly and directly as possible.
  
 ![Nav Bar](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/nav.jpeg)
 
 - __The landing page image__
 
-  - The landing includes a photograph with contrast text overlay which allows the user to instantly catch the three main services offered by the teacher. 
+  - The landing page contains a photo with a high-contrast text overlay that allows the user to immediately identify the three main services the teacher offers. 
 
 ![Hero](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/hero.jpeg)
 
-- __About me Section__
+- __About me section__
 
-  - The "About me" section includes a picture of the teacher, a greeting message and a brief description of the teacher's professional experience and goal. The picture was chosen to inspire confidence and the welcome message aims to put the user at ease and encourage further reading. The bio was intentionally kept short as not to result boring. At the end of the bio there's and invitation to find out more that links to the social media buttons in the footer section. 
+  - The 'About Me' section includes a picture of the teacher, a welcome message and a brief description of the teacher's professional experience and goals. The picture was chosen to inspire confidence and the welcome message is intended to reassure the user and encourage them to read on. The biography has been deliberately kept short so that it does not become boring. At the end of the bio, there is a prompt to learn more and a link to the social media buttons in the footer.
 
 ![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
 - __Services section__
 
-  - This section replies to the question most users/students will ask themselves at some point, "are these lessons right for me?". The section presents in a few effective sentences the three main features of the teaching service: "tailored", "strategical" and "flexible". 
-  - Each feature is accompanied by an image in line with the side message and the webisite colours. Images are simple, easy to understand and convey a message inspired to the website goals. 
-  - Times, hours and conditions will be updated whenever necessary. 
-
+  - This section answers the question that most users/students will ask at some point: "are these lessons right for me?". The section introduces in a few concise sentences the three main features of the teaching service: "tailored", "strategic" and "flexible".
+  - Each feature is accompanied by an image that matches the page message and website colours. The images are simple, easy to understand and convey a message that is aligned with the website's objectives.
+  - The times, hours and conditions will be updated whenever necessary.
+  
 ![Service](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/services.jpeg)
 
 - __Contact me section__ 
 
-  - The contact me section is intuitive and presented with the promise of getting a reply within 24 hours. The form is placed on the right to ease the natural eye movement from left to right of Western readers. 
-  - The form's fields are mandatory and an alert warns the user in case some fields are left blank before submission. 
+  - The contact section is intuitive with the promise of a response within 24 hours. The form is on the right hand side to facilitate the natural eye movement of western readers from left to right.
+  - The form's field are mandatory to fill in and an alert warns the user if some fields are left blank before submission.
 
 ![Contact me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/form.jpeg)
 
 - __The Footer__ 
 
-  - The footer's right section includes links to the relevant social media sites of English with Claudia and the teacher. The links will open to a new tab to allow easy navigation for the users. 
+  - The right section of the footer contains links to the relevant social media pages of English with Claudia and the teacher. The links open in a new tab to allow users to navigate easily.
   - The footer's left section includes links to the "About" and "Top" of the page, anchored to the header. This section is intentionally placed right under the submit button in case the user wants to go back to some relevant information before submitting the form. 
   - The footer purpose is to invite the user to find out more about the teaching method and the teacher's bio. 
   
@@ -100,9 +100,9 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 
 - __Other features__ 
     - The website has an [apple-touch-icon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/apple-touch-icon.png) to make the page stand out among other bookmarks with an orange "C" as a reminder of Claudia (the teacher) and (English) Course. 
-    - The webiste has a [Union-Jack Favicon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/favicon.ico) to make the page easy to find among many open tabs. 
+    - The website has a [Union-Jack Favicon](https://github.com/cla-cif/english-with-claudia/blob/main/assets/images/favicon.ico) to make the page easy to find among many open tabs. 
     - The website has a "Google site verification" to verify this site's ownership as shown [here](https://search.google.com/search-console/ownership?resource_id=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F).
-    - The website has keywords and a suitable lenght description to give the user a brief idea of the website from the browser's results page. 
+    - The website has keywords and a suitable length description to give the user a brief idea of the website from the browser's results page. 
 
 ### Features Left to Implement
 
@@ -138,7 +138,7 @@ The page is conceived with an intuitive layout, it's accessible, easy to browse,
 
 ### General Testing 
 
-The webpage features have been tested througlhy with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
+The webpage features have been tested thoroughly  with the some well-known free Web testers. Particular emphasis was put on SEO and Accessibility since the website offers educational resources. 
 
 - __Web Responsive__
 The responsive feature has been tested with Chrome DevTools and an online Web [Design checker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&width=1400&height=700). 
@@ -148,9 +148,9 @@ Note: Images and submit form have been removed from small screens layout to obta
 
 - __Accessibility__
 
-  - __Colors:__ All colors checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
-  - __Color Blindness:__ Colorblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
-  - __Screen Reader:__ Text and links were read with Google Chrome extention Screen Reader (version 53.0.2784.13). 
+  - __Colours:__ All colours checked with [WebAim](https://webaim.org/resources/contrastchecker/) present an optimal contrast ratio. 
+  - __Colour Blindness:__ Colourblind Webpage Filters were taken into account on [Toptal](https://www.toptal.com/designers/colorfilter/).
+  - __Screen Reader:__ Text and links were read with Google Chrome extension Screen Reader (version 53.0.2784.13). 
   - __Presbiopia:__ All the fonts are "sans serif" and with an adequate size to make the text easy to read without glasses. 
   - __Readability:__ Since the main audience is English learners, the text was rated easy to understand as tested with [WebFX](https://www.webfx.com/tools/read-able/check.php?uri=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&tab=Test+By+Url&imahuman=16749697)
   - __General Accessibility:__ has been tested with satisfactory results on:
@@ -182,9 +182,9 @@ The website has been tested on:
           b. The user has two options, click the about me link on the navigation bar or scroll to discover more in the immediate following section "About me"
 
 2. As a First Time impaired visitor, I want to be able to easily navigate throughout the site to find information, find sufficient contrast ratio, find suitable colours,   find animations disabled. 
-        a. Colors contrast with the background and are color blindness friendly as information will still be clear regardless of the deficiency.
+        a. Colours contrast with the background and are colour blindness friendly as information will still be clear regardless of the deficiency.
         b. Fonts sizes are by default sufficiently big and therefore readable. 
-        c. All the text, labels, images are readable by Chrome Screen Reader extention. 
+        c. All the text, labels, images are readable by Chrome Screen Reader extension. 
         d. Animations are disabled if the users sets a "prefers-reduced-motion" option. 
 
  3. As a First Time Visitor, I might want to find out more about the service on social media. 
@@ -199,7 +199,7 @@ The website has been tested on:
 -   #### Returning Visitor Goals
 
 1. As a Returning Visitor, I want to find information, prices, conditions and timetables always up-to-date. 
-          a. Information in the thrid from the top text-area of the "Services section" will be kept updated as well as the "about me" section and anything else susceptible to change. 
+          a. Information in the third from the top text-area of the "Services section" will be kept updated as well as the "about me" section and anything else susceptible to change. 
     
 2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
           a. The "Contact me" link is available in the nav bar section and takes the user to the form area in the "Contact me" section. 
@@ -237,7 +237,7 @@ __The live link can be found here - [English with Claudia](https://cla-cif.githu
 
 ### Content 
 
-- The text was partially taken from [My Enlish Theacher Tom](https://www.myenglishteachertom.com/)
+- The text was partially taken from [My English Teacher Tom](https://www.myenglishteachertom.com/)
 - CSS backbone was taken from  [Kevin Powell tutorials](https://www.youtube.com/watch?v=bn-DQCifeQQ)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
