@@ -34,7 +34,7 @@ The text was tested against common [readability indices](https://www.analyzemywr
 The site is designed with an intuitive layout, it is accessible, easy to browse, with the absolutely necessary information and less invasive images.
 [Balsamiq](https://balsamiq.com/) was used to put "ideas on paper". 
 
-Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png)    [Mobile](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png)   [Extra small screen](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png).
+Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe.png) / [Mobile](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-mobile.png) / [Extra small screen](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/index-wireframe-small.png).
 
 -  ### Design
 
