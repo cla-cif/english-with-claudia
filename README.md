@@ -175,8 +175,8 @@ The website was been tested on:
 
 - #### First Time Visitor Goals
 
-    1. As a First-time visitor, I want to understand if the services are suitable for me. 
-    - The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
+ 1. As a First-time visitor, I want to understand if the services are suitable for me. 
+    -   The three courses offered are immediately visible in the welcome image with a high-contrast text overlay. 
     - The user has two options: Click on the "About Me" link in the navigation bar or scroll to learn more in the "About Me" section immediately following.
           
  2. As a First-time visitor and a learner, I want the text to be easy to decipher, short and written in a rather casual language. 
