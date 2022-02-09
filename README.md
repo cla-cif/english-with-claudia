@@ -155,7 +155,8 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
       2. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
 
 - __Browser Compatibility__
-The website was tested with [Power Mapper](https://www.powermapper.com/) and no critical problems were found. Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
+    - The website was tested with [Power Mapper](https://www.powermapper.com/) and no critical problems were found. 
+    - Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
 
 - __SEO__
 The website was been tested on:
