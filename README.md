@@ -140,8 +140,8 @@ The website's features were thoroughly tested using some well-known free web tes
 - __Web Responsive__
 The responsive feature has been tested using Chrome DevTools and an online Web [Design checker](https://responsivedesignchecker.com/checker.php?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&width=1400&height=700). 
 The website's layout has been tested on a range of different screen sizes, from small 320x480 screens (e.g. Apple iPhone 3) to widescreen 24" and their landscape view providing a good user experience. 
-The website has passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA). 
-Note: Images and the submit form have been removed from the small screen layout for better readability and a warning message is displayed instead.
+The website has passed the [Google mobile-friendly test](https://search.google.com/test/mobile-friendly/result?id=a6mUE2LpdV19X1xP-L4ljA).
+    - Note: Images and the submit form have been removed from the small screen layout for better readability and a warning message is displayed instead.
 
 - __Accessibility__
 
