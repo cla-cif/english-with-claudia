@@ -161,7 +161,7 @@ input.join-button:hover {
   }
 }
 
-/* ======== header ======== */
+/* ======== nav bar ======== */
 nav.menu {
   width: 100%;
   margin-top: 1em;
@@ -396,24 +396,21 @@ footer.split {
 /***medium-small screens***/
 @media only screen and (min-width: 20rem) and (max-width: 50rem) {
 
-  /*general*/
+  /*global styles*/
   .container,
   .aboutme-text,
   #aboutme .container.split {
     margin-inline: 2.5rem;
   }
 
-  /* h2 {
+  /*header styles*/
+  h2,
+  h2.hero-header {
     font-size: 2rem;
     font-size: 5vh;
-  } */
+  }
 
-  /* h2.hero-header {
-    font-size: 2rem;
-    font-size: 5vh;
-  } */
-
-  /*aboutme*/
+  /*about-me*/
   .aboutme-img img {
     max-height: 40vh;
   }
@@ -482,7 +479,7 @@ footer.split {
 /***extra-small screens***/
 @media only screen and (max-width: 20rem) {
 
-  /*general*/
+  /*global styles*/
   .container,
   .container.split,
   .aboutme-text,
@@ -491,52 +488,53 @@ footer.split {
     margin-inline: 1rem;
   }
 
+  img {
+    display: none;
+  }
+
+  /*header styles*/
+  h1 {
+    font-size: 1.8rem;
+    font-size: 6vh;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    font-size: 4vh;
+  }
+
+  h3 {
+    font-size: 1rem;
+    font-size: 3.8vh;
+  }
+
+  /*text styles*/
+  li,
+  p,
+  #joinme-par {
+    font-size: .8rem;
+    font-size: 2.8vh;
+  }
+
+  /*nav bar*/
+  .menu a {
+    font-size: 1rem;
+    font-size: 2.8vh;
+  }
+
   .menu ul {
     align-items: center;
     flex-direction: column;
-  }
-
-  .menu a {
-    font-size: 1.3rem;
-    font-size: 2.8vh;
   }
 
   .menu li:first-child {
     padding-bottom: 1rem;
   }
 
-  img {
-    display: none;
-  }
-
-  h1 {
-    /* font-size: 2rem;
-    font-size:6vh; */
-    margin-bottom: 0;
-  }
-
-  h2 {
-    font-size: 1.5rem;
-    font-size: 4vh;
-  }
- 
-  /*
-  h3 {
-    font-size: 1.3rem;
-  } */
-
-  /* li,
-  p {
-    font-size: 1rem;
-  } */
-  /*
-  #joinme-par {
-    font-size: 1rem;
-  } */
-
   /*hero*/
   h2.hero-header {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-size: 4vh;
     margin-inline: 0;
   }
@@ -558,10 +556,9 @@ footer.split {
 
   .hero-box::before {
     opacity: .9;
-
   }
 
-  /*aboutme*/
+  /*about-me*/
   #aboutme .container.split {
     margin-inline: 0;
   }
@@ -585,7 +582,7 @@ footer.split {
     margin-top: 0;
   }
 
-  /*form*/
+  /*contact-me*/
   .form-input {
     display: none;
   }
