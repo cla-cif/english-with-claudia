@@ -101,7 +101,6 @@ p {
 
 a {
   text-decoration: none;
-
 }
 
 img {
@@ -409,10 +408,10 @@ footer.split {
     font-size: 5vh;
   } */
 
-  h2.hero-header {
+  /* h2.hero-header {
     font-size: 2rem;
-    font-size: 4vh;
-  }
+    font-size: 5vh;
+  } */
 
   /*aboutme*/
   .aboutme-img img {
@@ -499,10 +498,13 @@ footer.split {
 
   .menu a {
     font-size: 1.3rem;
+    font-size: 2.8vh;
   }
+
   .menu li:first-child {
     padding-bottom: 1rem;
   }
+
   img {
     display: none;
   }
@@ -513,10 +515,14 @@ footer.split {
     margin-bottom: 0;
   }
 
-  /* h2 {
+  h2 {
     font-size: 1.5rem;
+    font-size: 4vh;
   }
-
+  .menu.li {
+    font-size: 5vh;
+  }
+  /*
   h3 {
     font-size: 1.3rem;
   } */
@@ -524,8 +530,8 @@ footer.split {
   /* li,
   p {
     font-size: 1rem;
-  }
-
+  } */
+  /*
   #joinme-par {
     font-size: 1rem;
   } */
@@ -533,35 +539,33 @@ footer.split {
   /*hero*/
   h2.hero-header {
     font-size: 1.5rem;
+    font-size: 4vh;
     margin-inline: 0;
   }
 
   .hero {
-    background: none;
     background: var(--bg-color);
-    min-height: 60vh;
-    margin-inline: 0;
-    width: 100%;
+    display: flex;
+  }
+
+  section.hero {
+    justify-content: space-evenly;
+    padding: 0;
   }
 
   .hero-box {
     min-height: 60vh;
     margin-inline: 0;
-    width: 100%;
-  }
-
-  .hero-box.container.split {
-    margin-inline: 0;
   }
 
   .hero-box::before {
     opacity: .9;
+
   }
 
   /*aboutme*/
   #aboutme .container.split {
     margin-inline: 0;
-    padding-top: 2rem;
   }
 
   .aboutme-header h3 {
@@ -569,15 +573,27 @@ footer.split {
   }
 
   /*services*/
+  .service-one,
+  .service-two,
+  .service-three {
+    padding-bottom: 1rem;
+  }
+
   .service-header.container {
     padding: 0 0 2.5rem 0;
   }
+
   .service-text {
     margin-top: 0;
   }
+
   /*form*/
   .form-input {
     display: none;
+  }
+
+  .form-description {
+    margin-inline: 1rem;
   }
 
   .small-screen-msg {
