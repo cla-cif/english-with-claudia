@@ -73,7 +73,7 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
 
 ![About me](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/aboutme.jpeg)
 
-- __Services' section__
+- __Services section__
 
   - This section answers the question that most users/students will ask at some point: "are these lessons right for me?". The section introduces in a few concise sentences the three main features of the teaching service: "tailored", "strategic" and "flexible".
   - Each feature is accompanied by an image that matches the page message and website colours. The images are simple, easy to understand and convey a message that is aligned with the website's objectives.
@@ -158,6 +158,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
 - __Browser Compatibility__
     - The website was tested with [Power Mapper](https://www.powermapper.com/) and no critical problems were found. 
     - Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
+    - __To maximise responsiveness and browser compatibility, font sizes are set in viewport values but fallback to rem values as [advisable](https://www.sitepoint.com/new-css3-relative-font-size/).__
 
 - __SEO__
   - The website was been tested on [Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings).
@@ -177,7 +178,8 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
 
 - __Unfixed bugs__
     - There is a loss of information in the header section when the page is displayed on IE 11 running on Win 10 because the header will not be displayed correctly:
-CSS property 'display: flex' is not fully supported by IE11. Details are shown [here](https://caniuse.com/?search=display%20flex). 
+CSS property 'display: flex' is not fully supported by IE11. Details are shown [here](https://caniuse.com/?search=display%20flex).
+    - Note: The issue has not yet been fixed as Microsoft will soon be phasing out IE 11 as stated [here](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/#:~:text=With%20Microsoft%20Edge%20capable%20of,certain%20versions%20of%20Windows%2010.). 
 
 ### Testing User Stories from User Experience (UX) Section
 
