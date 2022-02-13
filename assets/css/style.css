@@ -163,7 +163,7 @@ input.join-button:hover {
 /* ======== nav bar ======== */
 nav.menu {
 	width: 100%;
-	margin-top: 1em;
+	margin-top: 1rem;
 }
 
 nav.menu li {
@@ -195,8 +195,8 @@ h2.hero-header {
 	flex-direction: row;
 	float: right;
 	height: 100%;
-	max-width: 20em;
-	padding: 1em;
+	max-width: 20rem;
+	padding: 1rem;
 	position: relative;
 }
 
@@ -311,7 +311,7 @@ div.hero-box.container.split {
 
 .form-input input[type="text"],
 .form-input input[type="email"] {
-	border: .1em solid var(--color-dark);
+	border: .1rem solid var(--color-dark);
 	border-radius: var(--rad-default);
 	display: list-item;
 	filter: drop-shadow(0 0 .2rem var(--color-shadow));
@@ -325,7 +325,7 @@ div.hero-box.container.split {
 }
 
 textarea {
-	border: .1em solid var(--color-dark);
+	border: .1rem solid var(--color-dark);
 	border-radius: var(--rad-default);
 	filter: drop-shadow(0 0 .2rem var(--color-shadow));
 	font-family: var(--ff-body);
@@ -360,7 +360,7 @@ input.join-button {
 
 /* ======== footer ======== */
 footer h3 {
-	margin-bottom: 2em;
+	margin-bottom: 2rem;
 }
 
 footer.split {
@@ -382,7 +382,7 @@ footer.split {
 	}
 
 	.split>*+* {
-		margin-left: 2em;
+		margin-left: 2rem;
 	}
 
 	section,
@@ -463,11 +463,11 @@ footer.split {
 	}
 
 	.follow-me i {
-		margin-inline: .5em;
+		margin-inline: .5rem;
 	}
 
 	.footer-links li {
-		margin-inline: .5em;
+		margin-inline: .5rem;
 	}
 
 	footer h3 {
@@ -629,14 +629,14 @@ footer.split {
 	}
 
 	.follow-me i {
-		margin-inline: .5em;
+		margin-inline: .5rem;
 	}
 
 	.footer-links li {
-		margin-inline: .5em;
+		margin-inline: .5rem;
 	}
 
 	footer h3 {
-		margin-bottom: .5em;
+		margin-bottom: .5rem;
 	}
 }
