@@ -205,13 +205,13 @@ h2.hero-header {
   content: "";
   background-color: var(--color-item);
   border-radius: var(--rad-default);
-  bottom: 0px;
+  bottom: 0;
   filter: drop-shadow(0 0 0.35rem var(--color-shadow));
-  left: 0px;
+  left: 0;
   opacity: .7;
   position: absolute;
-  right: 0px;
-  top: 0px;
+  right: 0;
+  top: 0;
 }
 
 div.hero-box.container.split {
