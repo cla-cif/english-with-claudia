@@ -113,21 +113,19 @@ img {
 }
 
 /*animation effects*/
-h1:hover, h1:active {
+h1:hover {
 	background: var(--color-item);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
 	transform: scale(1.1);
 	transition: .3s ease-in;
-	-webkit-transition: .3s ease-in;
 }
 
-i:hover, i:active {
+i:hover {
 	color: var(--color-item);
 	transform: scale(2);
 	transition: .3s ease-in;
-	-webkit-transition: .3s ease-in;
 }
 
 a:hover,
@@ -135,8 +133,6 @@ li:hover {
 	color: var(--color-item);
 	transform: scale(1.3);
 	transition: .3s ease-in-out;
-	-webkit-transition: .3s ease-in-out;
-	-webkit-transform: scale(1.3);
 }
 
 input.join-button:hover {
@@ -154,7 +150,7 @@ input.join-button:hover {
 
 @media screen and (prefers-reduced-motion) {
 
-	h1:hover,
+  h1:hover,
   a:hover,
   i:hover,
   li:hover,
