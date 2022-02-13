@@ -1,5 +1,5 @@
 :root {
-	--bg-hero: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../images/hero.jpeg") no-repeat;
+	--bg-hero: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url("../images/hero.jpeg") no-repeat;
 	--bg-color: #f1f0eb;
 	--color-dark: #000;
 	--color-light: #fafafa;
@@ -7,13 +7,13 @@
 	--color-shadow: #8e8d8a;
 	--ff-body: "Nunito Sans", sans serif;
 	--ff-headings: "Oswald", sans serif;
-	--rad-default: 0.18rem;
+	--rad-default: .18rem;
 }
 
 * {
 	box-sizing: border-box;
 	color: var(--color-dark);
-	letter-spacing: 0.03em;
+	letter-spacing: .03em;
 	margin: 0;
 	max-width: 100%;
 }
@@ -96,7 +96,7 @@ li {
 }
 
 p {
-	margin: 1rem 0 1rem 0;
+	margin: 1rem 0;
 }
 
 a {
@@ -106,9 +106,9 @@ a {
 img {
 	border-radius: var(--rad-default);
 	display: block;
-	filter: drop-shadow(0 0 0.35rem var(--color-shadow));
+	filter: drop-shadow(0 0 .35rem var(--color-shadow));
 	height: 100%;
-	margin: 1.5rem 0 1.5rem 0;
+	margin: 1.5rem 0;
 	max-width: 100%;
 }
 
@@ -205,7 +205,7 @@ h2.hero-header {
 	background-color: var(--color-item);
 	border-radius: var(--rad-default);
 	bottom: 0;
-	filter: drop-shadow(0 0 0.35rem var(--color-shadow));
+	filter: drop-shadow(0 0 .35rem var(--color-shadow));
 	left: 0;
 	opacity: .7;
 	position: absolute;
@@ -225,7 +225,7 @@ div.hero-box.container.split {
 .aboutme-img img {
 	border-radius: 50%;
 	filter: brightness(90%);
-	filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+	filter: drop-shadow(0 0 .2rem var(--color-shadow));
 	height: auto;
 	object-fit: contain;
 	width: auto;
@@ -250,7 +250,7 @@ div.hero-box.container.split {
 /* ======== services ======== */
 .service-header.container {
 	margin: 0;
-	padding: 3rem 0 3rem 0;
+	padding: 3rem 0;
 }
 
 .service-text p {
@@ -271,7 +271,7 @@ div.hero-box.container.split {
 .service-text {
 	background-color: var(--color-light);
 	border-radius: var(--rad-default);
-	filter: drop-shadow(0 0 0.35rem var(--color-shadow));
+	filter: drop-shadow(0 0 .35rem var(--color-shadow));
 	height: auto;
 	max-width: 40rem;
 	margin-top: 3rem;
@@ -325,15 +325,15 @@ div.hero-box.container.split {
 }
 
 textarea {
-	border: 0.1em solid var(--color-dark);
+	border: .1em solid var(--color-dark);
 	border-radius: var(--rad-default);
-	filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+	filter: drop-shadow(0 0 .2rem var(--color-shadow));
 	font-family: var(--ff-body);
 	font-size: 1.1rem;
 	font-size: 2.8vh;
 	font-weight: 800;
 	margin-bottom: 1rem;
-	padding: 0.6rem;
+	padding: .6rem;
 	resize: none;
 	width: 100%;
 }
@@ -345,7 +345,7 @@ input.join-button {
 	color: var(--color-dark);
 	cursor: pointer;
 	display: list-item;
-	filter: drop-shadow(0 0 0.2rem var(--color-shadow));
+	filter: drop-shadow(0 0 .2rem var(--color-shadow));
 	font-size: 1.5rem;
 	font-size: 3vh;
 	font-weight: 700;
@@ -463,15 +463,15 @@ footer.split {
 	}
 
 	.follow-me i {
-		margin-inline: 0.5em;
+		margin-inline: .5em;
 	}
 
 	.footer-links li {
-		margin-inline: 0.5em;
+		margin-inline: .5em;
 	}
 
 	footer h3 {
-		margin-bottom: 0.5em;
+		margin-bottom: .5em;
 	}
 }
 
@@ -574,7 +574,7 @@ footer.split {
 	}
 
 	.service-header.container {
-		padding: 0 0 2.5rem 0;
+		padding: 0 0 2.5rem;
 	}
 
 	.service-text {
@@ -629,14 +629,14 @@ footer.split {
 	}
 
 	.follow-me i {
-		margin-inline: 0.5em;
+		margin-inline: .5em;
 	}
 
 	.footer-links li {
-		margin-inline: 0.5em;
+		margin-inline: .5em;
 	}
 
 	footer h3 {
-		margin-bottom: 0.5em;
+		margin-bottom: .5em;
 	}
 }
