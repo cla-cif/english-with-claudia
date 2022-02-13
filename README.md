@@ -180,6 +180,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
     - There is a loss of information in the header section when the page is displayed on IE 11 running on Win 10 because the header will not be displayed correctly:
 CSS property 'display: flex' is not fully supported by IE11. Details are shown [here](https://caniuse.com/?search=display%20flex).
     - Note: The issue has not yet been fixed as Microsoft will soon be phasing out IE 11 as stated [here](https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/#:~:text=With%20Microsoft%20Edge%20capable%20of,certain%20versions%20of%20Windows%2010.). 
+    - The :hover property remains activated on touch-screen devices. The issue is well-known and documented [here](https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c) and it's believed that the best solution is to use JS to detect whether the screen has touch capabilities and style the properties accordingly. 
 
 ### Testing User Stories from User Experience (UX) Section
 
