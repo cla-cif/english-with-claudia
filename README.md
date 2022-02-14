@@ -1,4 +1,4 @@
-<h1 align="center">English with Claudia</h1>
+<h1 align="center" id="top">English with Claudia</h1>
 
 __You can find the live link here: [English with Claudia](https://cla-cif.github.io/english-with-claudia/)__
 
@@ -260,3 +260,5 @@ __You can find the live link here: [English with Claudia](https://cla-cif.github
 ### Media
 
 - All the photos from [Pexels](https://www.pexels.com/).
+
+[Link to top](#top)
