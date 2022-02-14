@@ -113,7 +113,7 @@ Layouts: [Desktop](https://github.com/cla-cif/english-with-claudia/blob/main/scr
 
 - Make the Submit button functional. 
 - Implement an efficient cache policy. 
-- Add privacy policy. 
+- Add privacy policy and copyright information. 
 - Get the website a domain name. 
 
 ## Technologies used
