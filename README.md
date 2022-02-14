@@ -10,6 +10,13 @@ The text was tested against common [readability indices](https://www.analyzemywr
 
 ![Landing page](https://github.com/cla-cif/english-with-claudia/blob/main/screenshot/landing-page.jpeg)
 
+## Content
+- [Presentation]()
+- [User Experience](#User Experience) 
+- Features
+- Technologies used
+- Testing 
+- Deployments
 
 ## User Experience (UX)
 
