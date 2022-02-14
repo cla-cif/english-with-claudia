@@ -15,7 +15,8 @@ The text was tested against common [readability indices](https://www.analyzemywr
 - [Features](#Features)
 - [Technologies used](#Technologies-used)
 - [Testing](#Testing)
-- [Deployments](#Deployments)
+- [Deployment](#Deployment)
+- [Credits](#Credits)
 
 ## User Experience (UX)
 
