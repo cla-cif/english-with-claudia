@@ -168,11 +168,11 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
     - __To maximise responsiveness and browser compatibility, font sizes are set in viewport values but fallback to rem values as [advisable](https://www.sitepoint.com/new-css3-relative-font-size/).__
 
 - __SEO__
-  - The website was been tested on [Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings).
+  - The website was tested on [Seobility](https://freetools.seobility.net/en/seocheck/check?url=https%3A%2F%2Fcla-cif.github.io%2Fenglish-with-claudia%2F&crawltype=1#headings) and [Seo Site Checkup](https://seositecheckup.com/analysis).
   - Tests ran on Google Light House (mobile and desktop version) obtained a SEO score of 100%.
 
 - __Performances__
-  - The website was been tested on [Power Mapper](https://www.powermapper.com/).
+  - The website was tested on [Power Mapper](https://www.powermapper.com/).
   - The general performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
 ### Bugs and problems
