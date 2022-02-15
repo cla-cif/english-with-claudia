@@ -163,7 +163,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
       2. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
 
 - __Browser Compatibility__
-    - The website was tested with [Power Mapper](https://www.powermapper.com/) and no critical problems were found. 
+    - The website was tested with [Power Mapper](https://try.powermapper.com/demo/Report/051f53b2-ea5c-42ba-a494-d581b173b4d0) and no critical problems were found. 
     - Some layout issues occurred in IE ≤11. Other minor issues encountered in different browsers are not obstructive.
     - __To maximise responsiveness and browser compatibility, font sizes are set in viewport values but fallback to rem values as [advisable](https://www.sitepoint.com/new-css3-relative-font-size/).__
 
@@ -172,7 +172,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
   - Tests ran on Google Light House (mobile and desktop version) obtained a SEO score of 100%.
 
 - __Performances__
-  - The website was tested on [Power Mapper](https://www.powermapper.com/).
+  - The website was tested on [Power Mapper](https://try.powermapper.com/demo/Report/051f53b2-ea5c-42ba-a494-d581b173b4d0).
   - The general performance was evaluated by [GTMetrix](https://gtmetrix.com/reports/cla-cif.github.io/9nvWRL91/).
 
 ### Bugs and problems
