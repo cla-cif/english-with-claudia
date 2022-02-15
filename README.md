@@ -161,6 +161,7 @@ The website has passed the [Google mobile-friendly test](https://search.google.c
   - __General Accessibility:__ has been tested with satisfactory results on:
       1. Google Light House (mobile and desktop version). 
       2. [Power Mapper](https://try.powermapper.com/demo/ViewScan/051f53b2-ea5c-42ba-a494-d581b173b4d0) shows no critical issues. 
+      3. [Wave](https://wave.webaim.org/report#/https://cla-cif.github.io/english-with-claudia/).
 
 - __Browser Compatibility__
     - The website was tested with [Power Mapper](https://try.powermapper.com/demo/Report/051f53b2-ea5c-42ba-a494-d581b173b4d0) and no critical problems were found. 
